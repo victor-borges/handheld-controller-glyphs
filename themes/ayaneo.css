@@ -9,12 +9,12 @@ img[src="/steaminputglyphs/ps4_button_logo.svg"] {
 /* View */
 img[src="/steaminputglyphs/xbox360_button_select.svg"],
 img[src="/steaminputglyphs/ps5_button_create.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/buttons/view.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/View.svg");
     transform: scale(0.96);
 }
 img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/buttons/menu.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/Menu.svg");
     transform: scale(0.96);
 }
 

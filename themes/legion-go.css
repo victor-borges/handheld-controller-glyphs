@@ -92,19 +92,19 @@ img[src="/steaminputglyphs/ps_dpad_down.svg"] {
 
 /* Left Stick */
 img[src="/steaminputglyphs/shared_lstick_up.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/L-stick-up.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/L-stick-up.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_lstick_left.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/L-stick-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/L-stick-left.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_lstick_down.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/L-stick-down.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/L-stick-down.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_lstick_right.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/L-stick-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/L-stick-right.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_l3.svg"] {
@@ -118,19 +118,19 @@ img[src="/steaminputglyphs/shared_lstick.svg"] {
 
 /* Right Stick */
 img[src="/steaminputglyphs/shared_rstick_up.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/R-stick-up.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/R-stick-up.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_rstick_left.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/R-stick-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/R-stick-left.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_rstick_down.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/R-stick-down.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/R-stick-down.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_rstick_right.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/R-stick-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/R-stick-right.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_r3.svg"] {
