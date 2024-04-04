@@ -16,7 +16,7 @@ THEME_FOLDER="${HOMEBREW_FOLDER}/themes"
 
 function set_default() {
     PROFILE=$1
-    if [[ -f "${THEME_FOLDER}/handheld-controller-glyphs/config_USER.json" ]]; then
+    if ! [[ -f "${THEME_FOLDER}/handheld-controller-glyphs/config_USER.json" ]]; then
         echo "{\"active\": true, \"Handheld\": \"$PROFILE\"}" > "${THEME_FOLDER}/handheld-controller-glyphs/config_USER.json"
     fi
 }
