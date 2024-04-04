@@ -20,7 +20,7 @@ Meant to be used with [HHD](https://github.com/antheas/hhd).
 CSS Loader Decky Plugin must already be installed and enabled.
 
 ```
-curl -sL https://github.com/victor-borges/handheld-controller-glyphs/raw/master/install.sh | sh
+curl -sL https://github.com/victor-borges/handheld-controller-glyphs/raw/main/install.sh | sh
 ```
 
 ## Credits
