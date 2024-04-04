@@ -167,6 +167,7 @@ img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Trackpad.png");
     transform: scale(0.88);
 }
+img[src="/steaminputglyphs/xbox_button_logo.svg"],
 img[src="/steaminputglyphs/ps4_button_logo.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Command-Center.png");
     transform: scale(0.88);

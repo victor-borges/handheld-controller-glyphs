@@ -6,23 +6,12 @@
 }
 
 /* GUIDE */
+img[src="/steaminputglyphs/xbox_button_logo.svg"],
 img[src="/steaminputglyphs/ps4_button_logo.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/Win4-Menu.svg");
     width: 50px;
     height: auto;
     margin: -80% 8px -80% 0;
-}
-
-/* View */
-img[src="/steaminputglyphs/ps5_button_create.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/buttons/view.svg");
-    transform: scale(0.96);
-}
-
-/* Menu */
-img[src="/steaminputglyphs/ps5_button_options.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/buttons/menu.svg");
-    transform: scale(0.96);
 }
 
 /* Back Buttons */
