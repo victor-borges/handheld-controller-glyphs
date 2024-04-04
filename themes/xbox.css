@@ -122,5 +122,6 @@ img[src="/steaminputglyphs/ps5_button_options.svg"] {
 .lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_left.svg"],
 .lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_right.svg"],
 .lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_down.svg"] {
+    margin-left: -14px;
     transform: scale(0.5);
 }

@@ -187,6 +187,7 @@ img[src="/steaminputglyphs/ps_button_mute.svg"] {
 
 /* Lockscreen */
 .lockscreen_NumericButtonOption_2c4Hz img {
+    margin-left: -14px;
     transform: scale(0.5);
 }
 
