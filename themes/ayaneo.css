@@ -1,0 +1,28 @@
+
+/* GUIDE */
+img[src="/steaminputglyphs/ps4_button_logo.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/aya/ayaspace.svg");
+    transform: scale(1.0);
+}
+
+/* Menu */
+img[src="/steaminputglyphs/ps5_button_options.svg"] {
+    content: url("/steaminputglyphs/sd_button_menu.svg");
+    transform: scale(1.125);
+}
+
+/* View */
+img[src="/steaminputglyphs/ps5_button_create.svg"] {
+    content: url("/steaminputglyphs/sd_button_view.svg");
+    transform: scale(1.125);
+}
+
+/* Back Buttons */
+img[src="/steaminputglyphs/ps_lfn.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/aya/LC.svg");
+    transform: scale(1.2);
+}
+img[src="/steaminputglyphs/ps_rfn.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/aya/RC.svg");
+    transform: scale(1.2);
+}

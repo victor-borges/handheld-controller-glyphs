@@ -1,0 +1,43 @@
+
+/* GUIDE */
+img[src="/steaminputglyphs/ps4_button_logo.svg"] {
+    content: url("/themes_custom/SBP-PS5-to-Handheld/oxp-buttons/home.svg");
+    transform: scale(1.1);
+    /* content: url("/steaminputglyphs/xbox_button_logo.svg");
+    transform: scale(0.88); */
+}
+
+/* view */
+/* img[src="/steaminputglyphs/ps5_button_create.svg"] {
+    content: url("/themes_custom/SBP-PS5-to-Handheld/gpd-buttons/select.svg");
+    transform: scale(1.2);
+} */
+
+/* Menu */
+/* img[src="/steaminputglyphs/ps5_button_options.svg"] {
+    content: url("/themes_custom/SBP-PS5-to-Handheld/gpd-buttons/start.svg");
+    transform: scale(1.2);
+} */
+
+/* Back buttons */
+/*
+img[src="/steaminputglyphs/ps_lb.svg"] {
+    content: url("/themes_custom/SBP-PS5-to-Handheld/aya-buttons/Y2.png");
+    transform: scale(0.88);
+}*/
+
+/* img[src="/steaminputglyphs/ps_lfn.svg"] {
+    content: url("/steaminputglyphs/sd_l4.svg");
+    transform: scale(1.0);
+} */
+
+/*
+img[src="/steaminputglyphs/ps_rb.svg"] {
+    content: url("/themes_custom/SBP-PS5-to-Handheld/aya-buttons/M3.png");
+    transform: scale(0.88);
+}*/
+
+/* img[src="/steaminputglyphs/ps_rfn.svg"] {
+    content: url("/steaminputglyphs/sd_r4.svg");
+    transform: scale(1.0);
+} */

@@ -1,0 +1,95 @@
+/* Controller Image */
+.controller_ps5 .controllerconfiguratorsummary_BackgroundController_rlz-U,
+.controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
+.controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U {
+    background-image: url(/images/controller/controller_config_controller_xboxelite.png);
+}
+
+/* Face Buttons */
+img[src="/steaminputglyphs/ps_button_square.svg"],
+img[src="/steaminputglyphs/shared_color_button_x.svg"] {
+    content: url("/steaminputglyphs/shared_button_x.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_button_triangle.svg"],
+img[src="/steaminputglyphs/shared_color_button_y.svg"] {
+    content: url("/steaminputglyphs/shared_button_y.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_button_circle.svg"],
+img[src="/steaminputglyphs/shared_color_button_b.svg"] {
+    content: url("/steaminputglyphs/shared_button_b.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_button_x.svg"],
+img[src="/steaminputglyphs/shared_color_button_a.svg"] {
+    content: url("/steaminputglyphs/shared_button_a.svg");
+    transform: scale(0.88);
+}
+
+/* Shoulder Buttons */
+img[src="/steaminputglyphs/ps5_r1.svg"] {
+    content: url("/steaminputglyphs/xbox_rb.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_l1.svg"] {
+    content: url("/steaminputglyphs/xbox_lb.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_r2.svg"] {
+    content: url("/steaminputglyphs/xbox_rt.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_l2.svg"],
+img[src="/steaminputglyphs/sd_l2.svg"] {
+    content: url("/steaminputglyphs/xbox_lt.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_r2_soft.svg"] {
+    content: url("/steaminputglyphs/xbox_rt_soft.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_l2_soft.svg"] {
+    content: url("/steaminputglyphs/xbox_lt_soft.svg");
+    transform: scale(0.88);
+}
+
+/* Dpad */
+img[src="/steaminputglyphs/ps_dpad_up.svg"] {
+    content: url("/steaminputglyphs/shared_dpad_up.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_dpad_left.svg"] {
+    content: url("/steaminputglyphs/shared_dpad_left.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_dpad_right.svg"] {
+    content: url("/steaminputglyphs/shared_dpad_right.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_dpad_down.svg"] {
+    content: url("/steaminputglyphs/shared_dpad_down.svg");
+    transform: scale(0.88);
+}
+
+/* Others */
+img[src="/steaminputglyphs/ps4_button_logo.svg"] {
+    content: url("/steaminputglyphs/xbox_button_logo.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_button_create.svg"] {
+    content: url("/steaminputglyphs/sd_button_view.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps5_button_options.svg"] {
+    content: url("/steaminputglyphs/sd_button_menu.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/shared_r3.svg"] {
+    content: url("/steaminputglyphs/shared_rstick_click.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/shared_l3.svg"] {
+    content: url("/steaminputglyphs/shared_lstick_click.svg");
+    transform: scale(0.88);
+}
