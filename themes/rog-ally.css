@@ -178,12 +178,12 @@ img[src="/steaminputglyphs/ps4_button_logo.svg"] {
 }
 
 /* Controller Settings */
-/* img[src="/images/steamdeck_right.png"] {
+img[src="/images/steamdeck_right.png"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Controller-right.png");
 }
 img[src="/images/steamdeck_left.png"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Controller-left.png");
-} */
+}
 .controllersettings_devicecalibration_StartTestPrompt_3Ipg_ img[src="/steaminputglyphs/shared_color_button_y.svg"],
 .controllersettings_devicecalibration_StartTestPrompt_3Ipg_ img[src="/steaminputglyphs/ps_button_triangle.svg"] {
     transform: scale(0.5);

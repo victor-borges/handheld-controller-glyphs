@@ -8,7 +8,7 @@ Meant to be used with [HHD](https://github.com/antheas/hhd).
 
  - Lenovo Legion Go
  - ASUS ROG Ally
- - AYA Neo
+ - AYANEO
  - GPD Win4
  - GPG Win Mini
  - AOKZOE
