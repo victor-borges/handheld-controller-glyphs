@@ -16,9 +16,8 @@ THEME_FOLDER="${HOMEBREW_FOLDER}/themes"
 
 function set_default() {
     PROFILE=$1
-    # replace `: "Xbox" to` `: "$1"
     if [[ -f "${THEME_FOLDER}/handheld-controller-glyphs/config_USER.json" ]]; then
-        sed -i "s#: \"Xbox\"#: \"$PROFILE\"#g" "${THEME_FOLDER}/handheld-controller-glyphs/config_USER.json"
+        echo "{\"active\": true, \"Handheld\": \"$PROFILE\"}" > "${THEME_FOLDER}/handheld-controller-glyphs/config_USER.json"
     fi
 }
 
