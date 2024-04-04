@@ -112,3 +112,15 @@ img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/shared/Menu.svg");
 }
+
+/* Lockscreen */
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_lstick_up.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_lstick_left.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_lstick_right.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_lstick_down.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_up.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_left.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_right.svg"],
+.lockscreen_NumericButtonOption_2c4Hz img[src="/steaminputglyphs/shared_rstick_down.svg"] {
+    transform: scale(0.5);
+}
