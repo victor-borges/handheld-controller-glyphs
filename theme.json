@@ -18,18 +18,16 @@
           "themes/xbox.css": ["SP", "QuickAccess", "MainMenu"],
           "themes/ayaneo.css": ["SP", "QuickAccess", "MainMenu"]
         },
-        "GPD": {
-          "themes/xbox.css": ["SP", "QuickAccess", "MainMenu"],
-          "themes/gpd.css": ["SP", "QuickAccess", "MainMenu"]
-        },
         "GPD Win Mini": {
           "themes/xbox.css": ["SP", "QuickAccess", "MainMenu"],
-          "themes/gpd.css": ["SP", "QuickAccess", "MainMenu"],
           "themes/gpd-winmini.css": ["SP", "QuickAccess", "MainMenu"]
         },
-        "GPD Win4": {
+        "GPD Win 3": {
           "themes/xbox.css": ["SP", "QuickAccess", "MainMenu"],
-          "themes/gpd.css": ["SP", "QuickAccess", "MainMenu"],
+          "themes/gpd-win3.css": ["SP", "QuickAccess", "MainMenu"]
+        },
+        "GPD Win 4": {
+          "themes/xbox.css": ["SP", "QuickAccess", "MainMenu"],
           "themes/gpd-win4.css": ["SP", "QuickAccess", "MainMenu"]
         },
         "Aokzoe/OneXPlayer": {
