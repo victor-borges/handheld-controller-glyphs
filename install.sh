@@ -36,8 +36,11 @@ if [[ "$PRODUCT" =~ "ROG Ally RC71L" ]]; then
 elif [[ "$PRODUCT" == "G1617-01" ]]; then
     set_default "GPD Win Mini"
     PRODUCT_MATCH=true
+elif [[ "$PRODUCT" == "G1618-03" ]]; then
+    set_default "GPD Win 3"
+    PRODUCT_MATCH=true
 elif [[ "$PRODUCT" == "G1618-04" ]]; then
-    set_default "GPD Win4"
+    set_default "GPD Win 4"
     PRODUCT_MATCH=true
 elif [[ "$PRODUCT" == "83E1" ]]; then
     set_default "Legion Go"
@@ -50,8 +53,6 @@ fi
 
 if [[ "$VENDOR" == "AYANEO" ]]; then
     set_default "AYANEO"
-elif [[ "$VENDOR" == "GPD" ]]; then
-    set_default "GPD"
 elif [[ "$VENDOR" == "AOKZOE" || "$VENDOR" == "ONE-NETBOOK" ]]; then
     set_default "Aokzoe/OneXPlayer"
 fi

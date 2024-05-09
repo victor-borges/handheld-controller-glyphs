@@ -2,7 +2,7 @@
 .controller_ps5 .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url(/images/controller/controller_config_controller_xboxelite.png);
+    background-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/Controller.png");
 }
 
 /* Guide */
@@ -13,13 +13,64 @@ img[src="/steaminputglyphs/ps4_button_logo.svg"] {
 /* Select */
 img[src="/steaminputglyphs/xbox360_button_select.svg"],
 img[src="/steaminputglyphs/ps5_button_create.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/View.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/Select.svg");
+    transform: scale(1.2);
 }
 
 /* Start */
 img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/Menu.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/Start.svg");
+    transform: scale(1.2);
+}
+
+/* Shoulder Buttons */
+img[src="/steaminputglyphs/xbox_rb.svg"] {
+    content: url("/steaminputglyphs/ps5_r1.svg");
+}
+img[src="/steaminputglyphs/xbox_lb.svg"] {
+    content: url("/steaminputglyphs/ps5_l1.svg");
+}
+img[src="/steaminputglyphs/xbox_rt.svg"] {
+    content: url("/steaminputglyphs/ps5_r2.svg");
+}
+img[src="/steaminputglyphs/xbox_lt.svg"],
+img[src="/steaminputglyphs/sd_l2.svg"] {
+    content: url("/steaminputglyphs/ps5_l2.svg");
+}
+img[src="/steaminputglyphs/xbox_rt_soft.svg"] {
+    content: url("/steaminputglyphs/ps5_r2_soft.svg");
+}
+img[src="/steaminputglyphs/xbox_lt_soft.svg"] {
+    content: url("/steaminputglyphs/ps5_l2_soft.svg");
+}
+
+/* Back Buttons */
+img[src="/steaminputglyphs/ps_lfn.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/L4.svg");
+    transform: scale(1.4);
+}
+img[src="/steaminputglyphs/ps_rfn.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/R4.svg");
+    transform: scale(1.4);
+}
+
+/* D-Pad */
+img[src="/steaminputglyphs/shared_dpad_up.svg"],
+img[src="/steaminputglyphs/ps_dpad_up.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_up.svg");
+}
+img[src="/steaminputglyphs/shared_dpad_left.svg"],
+img[src="/steaminputglyphs/ps_dpad_left.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_left.svg");
+}
+img[src="/steaminputglyphs/shared_dpad_right.svg"],
+img[src="/steaminputglyphs/ps_dpad_right.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_right.svg");
+}
+img[src="/steaminputglyphs/shared_dpad_down.svg"],
+img[src="/steaminputglyphs/ps_dpad_down.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_down.svg");
 }
 
 /* Face Buttons */
@@ -82,39 +133,12 @@ img[src="/steaminputglyphs/shared_r3.svg"] {
     content: url("/steaminputglyphs/shared_rstick_click.svg");
 }
 
-/* Shoulder Buttons */
-img[src="/steaminputglyphs/ps5_l1.svg"] {
-    content: url("/steaminputglyphs/xbox_lb.svg");
+/* Controller Settings */
+img[src="/images/steamdeck_right.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/Controller-right.png");
 }
-img[src="/steaminputglyphs/ps5_l2.svg"],
-img[src="/steaminputglyphs/sd_l2.svg"] {
-    content: url("/steaminputglyphs/xbox_lt.svg");
-}
-img[src="/steaminputglyphs/ps5_l2_soft.svg"] {
-    content: url("/steaminputglyphs/xbox_lt_soft.svg");
-}
-img[src="/steaminputglyphs/ps5_r1.svg"] {
-    content: url("/steaminputglyphs/xbox_rb.svg");
-}
-img[src="/steaminputglyphs/ps5_r2.svg"] {
-    content: url("/steaminputglyphs/xbox_rt.svg");
-}
-img[src="/steaminputglyphs/ps5_r2_soft.svg"] {
-    content: url("/steaminputglyphs/xbox_rt_soft.svg");
-}
-
-/* Dpad */
-img[src="/steaminputglyphs/ps_dpad_up.svg"] {
-    content: url("/steaminputglyphs/shared_dpad_up.svg");
-}
-img[src="/steaminputglyphs/ps_dpad_down.svg"] {
-    content: url("/steaminputglyphs/shared_dpad_down.svg");
-}
-img[src="/steaminputglyphs/ps_dpad_left.svg"] {
-    content: url("/steaminputglyphs/shared_dpad_left.svg");
-}
-img[src="/steaminputglyphs/ps_dpad_right.svg"] {
-    content: url("/steaminputglyphs/shared_dpad_right.svg");
+img[src="/images/steamdeck_left.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/Controller-left.png");
 }
 
 /* Lockscreen */

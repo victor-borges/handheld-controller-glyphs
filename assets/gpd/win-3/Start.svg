@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="404.21094"
+   height="202.15623"
+   viewBox="0 0 106.94747 53.487172"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-12.67209,-192.27305)">
+    <g
+       id="g3">
+      <path
+         fill="#ffffff"
+         d="m 12.672095,219.01655 v 1.7e-4 a 26.7435,26.7435 45 0 0 26.7435,26.7435 H 119.61957 V 192.27305 H 39.415595 a 26.7435,26.7435 135 0 0 -26.7435,26.7435 z"
+         id="rect5066"
+         style="stroke-width:0.264998;stroke-dasharray:none"
+         transform="matrix(-1,0,0,1,132.29166,0)" />
+      <rect
+         style="fill:#999999;stroke-width:0.222331;stroke-dasharray:none"
+         id="rect3"
+         width="7.3251705"
+         height="53.487"
+         x="12.67209"
+         y="192.27306" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.6031px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke-width:1.88655;stroke-dasharray:none"
+       x="31.969955"
+       y="228.68848"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:1.88656"
+         x="31.969955"
+         y="228.68848">START</tspan></text>
+  </g>
+</svg>
