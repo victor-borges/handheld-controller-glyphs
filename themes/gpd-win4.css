@@ -11,7 +11,7 @@ img[src="/steaminputglyphs/ps4_button_logo.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/Menu.svg");
     width: 50px;
     height: auto;
-    margin: -80% 8px -80% 0;
+    margin: 0 8px;
 }
 
 /* Select */
