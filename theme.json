@@ -6,6 +6,9 @@
   "version": "v0.2.0",
   "target": "System-Wide",
   "manifest_version": 9,
+  "inject": {
+    "themes/hhd.css": ["QuickAccess"]
+  },
   "patches": {
     "Handheld": {
       "type": "dropdown",
