@@ -1,7 +1,8 @@
 /* Controller Image */
 .controller_ps5 .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
-.controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U {
+.controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
+.controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
     background-image: url(/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/Controller.svg);
 }
 
@@ -14,6 +15,7 @@ img[src="/steaminputglyphs/ps4_button_logo.svg"] {
 }
 
 /* Select */
+img[src="/steaminputglyphs/xbox_button_select.svg"],
 img[src="/steaminputglyphs/xbox360_button_select.svg"],
 img[src="/steaminputglyphs/ps5_button_create.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/Select.svg");
@@ -22,6 +24,7 @@ img[src="/steaminputglyphs/ps5_button_create.svg"] {
 }
 
 /* Start */
+img[src="/steaminputglyphs/xbox_button_start.svg"],
 img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/Start.svg");
@@ -30,10 +33,12 @@ img[src="/steaminputglyphs/ps5_button_options.svg"] {
 }
 
 /* Back Buttons */
+img[src="/steaminputglyphs/xbox_p3.svg"],
 img[src="/steaminputglyphs/ps_lfn.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/L4.svg");
     transform: scale(1.65);
 }
+img[src="/steaminputglyphs/xbox_p1.svg"],
 img[src="/steaminputglyphs/ps_rfn.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/R4.svg");
     transform: scale(1.65);
