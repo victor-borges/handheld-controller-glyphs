@@ -183,6 +183,12 @@ img[src="/steaminputglyphs/hp_r4.svg"] {
     transform: scale(0.88);
 }
 
+/* Hide trackpads that don't exist on the device */
+._1KA4m3xP2X5TGmO81UKYgL._3VNmumSYGqP4vaMVWVj5lb,
+._1KA4m3xP2X5TGmO81UKYgL._2_6CQKwvdpOgxSb5zw-ulr {
+    display: none;
+}
+
 /* Others */
 img[src="/steaminputglyphs/xbox_button_select.svg"],
 img[src="/steaminputglyphs/xbox360_button_select.svg"],
@@ -231,6 +237,30 @@ img[src="/images/steamdeck_left.png"] {
 .controllersettings_devicecalibration_StartTestPrompt_3Ipg_ img[src="/steaminputglyphs/ps_button_triangle.svg"] {
     width: 32px;
     height: 32px;
+}
+
+/* Tab Controls */
+.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/xbox_lb.svg"],
+.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/ps5_l1.svg"],
+.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/sd_l1.svg"] {
+    transform: scale(0.5);
+}
+.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/xbox_rb.svg"],
+.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/ps5_r1.svg"],
+.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/sd_r1.svg"] {
+    transform: scale(0.5);
+}
+
+/* Keyboard */
+.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/xbox_rb.svg"],
+.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/ps5_r1.svg"],
+.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/sd_r1.svg"] {
+    transform: scale(0.5);
+}
+.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/xbox_lb.svg"],
+.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/ps5_l1.svg"],
+.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/sd_l1.svg"] {
+    transform: scale(0.5);
 }
 
 ._3qDWQGB0rtwM3qpXTb11Q-._1oYt_BfxCHnA-_6sfUHiNn svg {
@@ -448,28 +478,4 @@ img[src="/images/steamdeck_left.png"] {
     animation-iteration-count: infinite;
     animation-fill-mode: both;
     width: 20px;
-}
-
-/* Tab Controls */
-.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/xbox_lb.svg"],
-.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/ps5_l1.svg"],
-.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/sd_l1.svg"] {
-    transform: scale(0.5);
-}
-.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/xbox_rb.svg"],
-.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/ps5_r1.svg"],
-.gamepadtabbedpage_TabRow_19z_5 img[src="/steaminputglyphs/sd_r1.svg"] {
-    transform: scale(0.5);
-}
-
-/* Keyboard */
-.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/xbox_rb.svg"],
-.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/ps5_r1.svg"],
-.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/sd_r1.svg"] {
-    transform: scale(0.5);
-}
-.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/xbox_lb.svg"],
-.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/ps5_l1.svg"],
-.virtualkeyboard_KeyboardEmojiHeader_Qihxj img[src="/steaminputglyphs/sd_l1.svg"] {
-    transform: scale(0.5);
 }
