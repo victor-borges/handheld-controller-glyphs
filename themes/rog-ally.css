@@ -12,7 +12,7 @@
 }
 .controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
     background: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Controller.png") center no-repeat;
-    background-size: 379px;
+    background-size: contain;
 }
 
 /* Guide */
