@@ -4,7 +4,7 @@
 A theme that changes the default controller glyphs to ones that match the handheld.
 Meant to be used with [HHD](https://github.com/antheas/hhd).
 
-## Supported Devices
+## Supported Themes
 
  - Lenovo Legion Go
  - ASUS ROG Ally
@@ -12,17 +12,15 @@ Meant to be used with [HHD](https://github.com/antheas/hhd).
  - GPD Win 3
  - GPD Win 4
  - GPG Win Mini
- - AOKZOE
- - ONEXPLAYER
- - Dualsense and Dualsense Edge controllers (changes them to Xbox glyphs)
+ - AOKZOE/ONEXPLAYER
+ - Xbox Elite
 
 ## Install
 
-CSS Loader Decky Plugin must already be installed and enabled.
+Get it from the Deck Themes store:
+https://deckthemes.com/themes/view?themeId=27d2dfb0-f58c-468f-81d5-f06534534133
 
-```
-curl -sL https://github.com/victor-borges/handheld-controller-glyphs/raw/main/install.sh | sh
-```
+Decky and the CSS Loader Plugin must already be installed and enabled.
 
 ## Credits
 
