@@ -15,6 +15,43 @@
     background-size: 379px;
 }
 
+/* Guide */
+img[src="/steaminputglyphs/xbox_button_logo.svg"],
+img[src="/steaminputglyphs/ps4_button_logo.svg"],
+img[src="/steaminputglyphs/sc_button_steam.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Legion.svg");
+    transform: scale(0.88);
+}
+
+/* Select */
+img[src="/steaminputglyphs/xbox_button_select.svg"],
+img[src="/steaminputglyphs/xbox360_button_select.svg"],
+img[src="/steaminputglyphs/ps5_button_create.svg"],
+img[src="/steaminputglyphs/sd_button_view.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/View.png");
+    transform: scale(0.88);
+}
+
+/* Start */
+img[src="/steaminputglyphs/xbox_button_start.svg"],
+img[src="/steaminputglyphs/xbox360_button_start.svg"],
+img[src="/steaminputglyphs/ps5_button_options.svg"],
+img[src="/steaminputglyphs/sd_button_menu.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Menu.png");
+    transform: scale(0.88);
+}
+
+/* Trackpad */
+img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Trackpad.png");
+    transform: scale(0.88);
+}
+
+img[src="/steaminputglyphs/ps_button_mute.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/M2.png");
+    transform: scale(0.88);
+}
+
 /* Face Buttons */
 img[src="/steaminputglyphs/ps_button_square.svg"],
 img[src="/steaminputglyphs/shared_color_button_x.svg"],
@@ -189,36 +226,6 @@ img[src="/steaminputglyphs/hp_r4.svg"] {
     display: none;
 }
 
-/* Others */
-img[src="/steaminputglyphs/xbox_button_select.svg"],
-img[src="/steaminputglyphs/xbox360_button_select.svg"],
-img[src="/steaminputglyphs/ps5_button_create.svg"],
-img[src="/steaminputglyphs/sd_button_view.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/View.png");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/xbox_button_start.svg"],
-img[src="/steaminputglyphs/xbox360_button_start.svg"],
-img[src="/steaminputglyphs/ps5_button_options.svg"],
-img[src="/steaminputglyphs/sd_button_menu.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Menu.png");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Trackpad.png");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/xbox_button_logo.svg"],
-img[src="/steaminputglyphs/ps4_button_logo.svg"],
-img[src="/steaminputglyphs/sc_button_steam.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Legion.svg");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/ps_button_mute.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/M2.png");
-    transform: scale(0.88);
-}
-
 /* Lockscreen */
 .lockscreen_NumericButtonOption_2c4Hz img {
     margin-left: -14px;
@@ -296,6 +303,15 @@ img[src="/images/steamdeck_left.png"] {
     display: none;
 }
 ._2XVTVAadkIvrBujZYN5jbL.gpfocus.gpfocuswithin ._3H05CHzkfz75-vnlsMa-p5 {
+    background: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Controller-small-black.svg") center no-repeat;
+    background-size: 24px;
+    background-color: white;
+}
+
+._3lO3wa99qU2ExNsm6la1zR.cXzBZxhPBl7fZs9LODEnc svg {
+    display: none;
+}
+._3lO3wa99qU2ExNsm6la1zR.cXzBZxhPBl7fZs9LODEnc.gpfocus.gpfocuswithin ._3H05CHzkfz75-vnlsMa-p5 {
     background: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Controller-small-black.svg") center no-repeat;
     background-size: 24px;
     background-color: white;

@@ -15,6 +15,32 @@
     background-size: 379px;
 }
 
+/* Guide */
+img[src="/steaminputglyphs/xbox_button_logo.svg"],
+img[src="/steaminputglyphs/ps4_button_logo.svg"],
+img[src="/steaminputglyphs/sc_button_steam.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Command-Center.png");
+    transform: scale(0.88);
+}
+
+/* Select */
+img[src="/steaminputglyphs/xbox_button_select.svg"],
+img[src="/steaminputglyphs/xbox360_button_select.svg"],
+img[src="/steaminputglyphs/ps5_button_create.svg"],
+img[src="/steaminputglyphs/sd_button_view.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/View.png");
+    transform: scale(0.88);
+}
+
+/* Start */
+img[src="/steaminputglyphs/xbox_button_start.svg"],
+img[src="/steaminputglyphs/xbox360_button_start.svg"],
+img[src="/steaminputglyphs/ps5_button_options.svg"],
+img[src="/steaminputglyphs/sd_button_menu.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Menu.png");
+    transform: scale(0.88);
+}
+
 /* Face Buttons */
 img[src="/steaminputglyphs/ps_button_square.svg"],
 img[src="/steaminputglyphs/shared_color_button_x.svg"],
@@ -173,32 +199,6 @@ div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"] * {
 ._1KA4m3xP2X5TGmO81UKYgL.sn6dZLiytS9JRqLcrRgdl,
 ._2mL2HfT5AkDXRi1YBnRWKa:has(> div > img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"]) {
     display: none;
-}
-
-/* Others */
-img[src="/steaminputglyphs/xbox_button_select.svg"],
-img[src="/steaminputglyphs/xbox360_button_select.svg"],
-img[src="/steaminputglyphs/ps5_button_create.svg"],
-img[src="/steaminputglyphs/sd_button_view.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/View.png");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/xbox_button_start.svg"],
-img[src="/steaminputglyphs/xbox360_button_start.svg"],
-img[src="/steaminputglyphs/ps5_button_options.svg"],
-img[src="/steaminputglyphs/sd_button_menu.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Menu.png");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Trackpad.png");
-    transform: scale(0.88);
-}
-img[src="/steaminputglyphs/xbox_button_logo.svg"],
-img[src="/steaminputglyphs/ps4_button_logo.svg"],
-img[src="/steaminputglyphs/sc_button_steam.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Command-Center.png");
-    transform: scale(0.88);
 }
 
 /* Lockscreen */

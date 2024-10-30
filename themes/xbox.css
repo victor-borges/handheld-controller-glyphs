@@ -2,23 +2,35 @@
 .controller_ps5 .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url(/images/controller/controller_config_controller_xboxelite.png);
+    background-image: url("/images/controller/controller_config_controller_xboxelite.png");
+}
+
+/* Controller Image - Steam Hori Controller */
+.controller_hori_steam svg {
+    display: none;
+}
+.controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
+    background: url("/images/controller/controller_config_controller_xboxelite.png") center no-repeat;
+    background-size: 379px;
 }
 
 /* Guide */
-img[src="/steaminputglyphs/ps4_button_logo.svg"] {
+img[src="/steaminputglyphs/ps4_button_logo.svg"],
+img[src="/steaminputglyphs/sc_button_steam.svg"] {
     content: url("/steaminputglyphs/xbox_button_logo.svg");
 }
 
 /* Select */
 img[src="/steaminputglyphs/xbox360_button_select.svg"],
-img[src="/steaminputglyphs/ps5_button_create.svg"] {
+img[src="/steaminputglyphs/ps5_button_create.svg"],
+img[src="/steaminputglyphs/sd_button_view.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/shared/View.svg");
 }
 
 /* Start */
 img[src="/steaminputglyphs/xbox360_button_start.svg"],
-img[src="/steaminputglyphs/ps5_button_options.svg"] {
+img[src="/steaminputglyphs/ps5_button_options.svg"],
+img[src="/steaminputglyphs/sd_button_menu.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/shared/Menu.svg");
 }
 
@@ -83,23 +95,28 @@ img[src="/steaminputglyphs/shared_r3.svg"] {
 }
 
 /* Shoulder Buttons */
-img[src="/steaminputglyphs/ps5_l1.svg"] {
+img[src="/steaminputglyphs/ps5_l1.svg"],
+img[src="/steaminputglyphs/sd_l1.svg"] {
     content: url("/steaminputglyphs/xbox_lb.svg");
 }
 img[src="/steaminputglyphs/ps5_l2.svg"],
 img[src="/steaminputglyphs/sd_l2.svg"] {
     content: url("/steaminputglyphs/xbox_lt.svg");
 }
-img[src="/steaminputglyphs/ps5_l2_soft.svg"] {
+img[src="/steaminputglyphs/ps5_l2_soft.svg"],
+img[src="/steaminputglyphs/sd_l2_half.svg"] {
     content: url("/steaminputglyphs/xbox_lt_soft.svg");
 }
-img[src="/steaminputglyphs/ps5_r1.svg"] {
+img[src="/steaminputglyphs/ps5_r1.svg"],
+img[src="/steaminputglyphs/sd_r1.svg"] {
     content: url("/steaminputglyphs/xbox_rb.svg");
 }
-img[src="/steaminputglyphs/ps5_r2.svg"] {
+img[src="/steaminputglyphs/ps5_r2.svg"],
+img[src="/steaminputglyphs/sd_r2.svg"] {
     content: url("/steaminputglyphs/xbox_rt.svg");
 }
-img[src="/steaminputglyphs/ps5_r2_soft.svg"] {
+img[src="/steaminputglyphs/ps5_r2_soft.svg"],
+img[src="/steaminputglyphs/sd_r2_half.svg"] {
     content: url("/steaminputglyphs/xbox_rt_soft.svg");
 }
 
@@ -115,6 +132,28 @@ img[src="/steaminputglyphs/ps_dpad_left.svg"] {
 }
 img[src="/steaminputglyphs/ps_dpad_right.svg"] {
     content: url("/steaminputglyphs/shared_dpad_right.svg");
+}
+
+/* Back buttons */
+img[src="/steaminputglyphs/ps_lb.svg"],
+img[src="/steaminputglyphs/hp_m1.svg"] {
+    content: url("/steaminputglyphs/xbox_p4.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_lfn.svg"],
+img[src="/steaminputglyphs/hp_l4.svg"] {
+    content: url("/steaminputglyphs/xbox_p3.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_rb.svg"],
+img[src="/steaminputglyphs/hp_m2.svg"] {
+    content: url("/steaminputglyphs/xbox_p2.svg");
+    transform: scale(0.88);
+}
+img[src="/steaminputglyphs/ps_rfn.svg"],
+img[src="/steaminputglyphs/hp_r4.svg"] {
+    content: url("/steaminputglyphs/xbox_p1.svg");
+    transform: scale(0.88);
 }
 
 /* Lockscreen */
