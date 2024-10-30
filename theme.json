@@ -2,8 +2,8 @@
   "name": "handheld-controller-glyphs",
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
-  "description": "Change the controller glyphs to match the handheld. Forked from honjow, with credits passed down to frazse, Akaza Renn and Aru.",
-  "version": "v0.3.0",
+  "description": "Change the controller glyphs to match the handheld.",
+  "version": "v0.4.0",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
