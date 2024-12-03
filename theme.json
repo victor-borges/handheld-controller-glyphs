@@ -3,7 +3,7 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v0.4.1",
+  "version": "v0.5.0",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
@@ -22,6 +22,16 @@
         "Aokzoe/OneXPlayer": { "themes/onexplayer.css": ["SP", "QuickAccess", "MainMenu"] },
         "ROG Ally": { "themes/rog-ally.css": ["SP", "QuickAccess", "MainMenu"] },
         "Legion Go": { "themes/legion-go.css": ["SP", "QuickAccess", "MainMenu"] }
+      }
+    },
+    "Swap View/Menu with Guide/QAM": {
+      "type": "checkbox",
+      "default": "No",
+      "values": {
+        "No": {},
+        "Yes": {
+          "themes/variables/swap-view-menu-guide-qam.css": ["SP", "QuickAccess", "MainMenu"]
+        }
       }
     }
   }
