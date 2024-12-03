@@ -1,0 +1,13 @@
+:root {
+    --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/Legion.svg");
+    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/View.png");
+    --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/QAM.svg");
+
+    --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Command-Center.png");
+    --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/View.png");
+    --rogally-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/Armoury-Crate.png");
+
+    --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
+    --onexplayer-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/View.svg");
+    --onexplayer-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/keyboard.svg");
+}
