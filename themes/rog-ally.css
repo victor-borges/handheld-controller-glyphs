@@ -189,13 +189,13 @@ img[src="/steaminputglyphs/shared_rstick.svg"] {
 
 /* Back buttons */
 img[src="/steaminputglyphs/xbox_p3.svg"],
-img[src="/steaminputglyphs/ps_lfn.svg"],
+img[src="/steaminputglyphs/ps_lb.svg"],
 img[src="/steaminputglyphs/hp_l4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/M1.png");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/xbox_p1.svg"],
-img[src="/steaminputglyphs/ps_rfn.svg"],
+img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/M2.png");
     transform: scale(0.88);
@@ -205,10 +205,14 @@ img[src="/steaminputglyphs/hp_r4.svg"] {
 ._1KA4m3xP2X5TGmO81UKYgL._30sIRI3p5gOFrdUD9wUeW2,
 ._1KA4m3xP2X5TGmO81UKYgL._2VVUWQlnM4AYMoylu5Ajr,
 div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding-0"],
+div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding--1"],
 div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding-0"] *,
+div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding--1"] *,
 div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"] * {
-    display: none;
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"],
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"] *,
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"] * {
+        display: none;
 }
 
 /* Hide trackpads that don't exist on the device */
