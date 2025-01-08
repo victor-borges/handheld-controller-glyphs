@@ -38,6 +38,7 @@ img[src="/steaminputglyphs/sc_button_steam.svg"] {
     background-size: contain;
     width: 25px;
     height: 25px;
+    transform: scale(0.88);
 }
 
 /* Select */
