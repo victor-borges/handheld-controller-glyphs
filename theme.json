@@ -21,7 +21,8 @@
         "GPD Win 4": { "themes/gpd-win4.css": ["SP", "QuickAccess", "MainMenu"] },
         "Aokzoe/OneXPlayer": { "themes/onexplayer.css": ["SP", "QuickAccess", "MainMenu"] },
         "ROG Ally": { "themes/rog-ally.css": ["SP", "QuickAccess", "MainMenu"] },
-        "Legion Go": { "themes/legion-go.css": ["SP", "QuickAccess", "MainMenu"] }
+        "Legion Go": { "themes/legion-go.css": ["SP", "QuickAccess", "MainMenu"] },
+        "MSI Claw": { "themes/msi-claw.css": ["SP", "QuickAccess", "MainMenu"] }
       }
     },
     "Swap View/Menu with Guide/QAM": {

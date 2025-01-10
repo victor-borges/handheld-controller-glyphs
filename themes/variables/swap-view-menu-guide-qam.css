@@ -10,4 +10,8 @@
     --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
     --onexplayer-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/Menu.svg");
     --onexplayer-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/keyboard.svg");
+
+    --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/Claw.png");
+    --msiclaw-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/View.png");
+    --msiclaw-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/Menu.png");
 }
