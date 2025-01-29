@@ -30,7 +30,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "GPD Win 3": {
-          "themes/gpd-win3.css": ["all"],
+          "themes/gpd-win-3.css": ["all"],
           "themes/shared/dpad-ps.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -39,7 +39,7 @@
           "themes/shared/hide-gyro.css": ["all"]
         },
         "GPD Win 4": {
-          "themes/gpd-win4.css": ["all"],
+          "themes/gpd-win-4.css": ["all"],
           "themes/shared/dpad-ps.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -47,7 +47,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "GPD Win Mini": {
-          "themes/gpd-winmini.css": ["all"],
+          "themes/gpd-win-mini.css": ["all"],
           "themes/shared/dpad-ps.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
