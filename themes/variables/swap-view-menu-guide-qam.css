@@ -1,10 +1,10 @@
 :root {
     --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/legion.svg");
-    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/menu.png");
+    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
     --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/qam.svg");
 
     --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/command-center.png");
-    --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/menu.png");
+    --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.png");
     --rogally-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/armoury-crate.png");
 
     --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
@@ -15,7 +15,7 @@
     --onexfly-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
     --onexfly-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/keyboard.svg");
 
-    --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/msi-center.png");
+    --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/msi-center.svg");
     --msiclaw-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
     --msiclaw-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
 }

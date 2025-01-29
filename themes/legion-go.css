@@ -1,7 +1,7 @@
 :root {
     --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/legion.svg");
-    --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/view.svg");
-    --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/menu.svg");
+    --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
 }
 
 /* Controller Image */
