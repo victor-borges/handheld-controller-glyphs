@@ -3,25 +3,98 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v0.5.1",
+  "version": "v1.0.0",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
     "themes/hhd.css": ["QuickAccess"]
+  },
+  "tabs": {
+    "all": ["bigpicture", "QuickAccess", "MainMenu"]
   },
   "patches": {
     "Handheld": {
       "type": "dropdown",
       "default": "Xbox",
       "values": {
-        "Xbox": { "themes/xbox.css": ["SP", "QuickAccess", "MainMenu"] },
-        "AYANEO": { "themes/ayaneo.css": ["SP", "QuickAccess", "MainMenu"] },
-        "GPD Win Mini": { "themes/gpd-winmini.css": ["SP", "QuickAccess", "MainMenu"] },
-        "GPD Win 3": { "themes/gpd-win3.css": ["SP", "QuickAccess", "MainMenu"] },
-        "GPD Win 4": { "themes/gpd-win4.css": ["SP", "QuickAccess", "MainMenu"] },
-        "Aokzoe/OneXPlayer": { "themes/onexplayer.css": ["SP", "QuickAccess", "MainMenu"] },
-        "ROG Ally": { "themes/rog-ally.css": ["SP", "QuickAccess", "MainMenu"] },
-        "Legion Go": { "themes/legion-go.css": ["SP", "QuickAccess", "MainMenu"] }
+        "Xbox": {
+          "themes/xbox.css": ["all"]
+        },
+        "AYANEO": {
+          "themes/ayaneo.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
+        },
+        "GPD Win 3": {
+          "themes/gpd-win3.css": ["all"],
+          "themes/shared/dpad-ps.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-gyro.css": ["all"]
+        },
+        "GPD Win 4": {
+          "themes/gpd-win4.css": ["all"],
+          "themes/shared/dpad-ps.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
+        },
+        "GPD Win Mini": {
+          "themes/gpd-winmini.css": ["all"],
+          "themes/shared/dpad-ps.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
+        },
+        "ONEXPLAYER": {
+          "themes/onexplayer.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
+        "ONEXFLY": {
+          "themes/onexfly.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
+        "ROG Ally / Ally X": {
+          "themes/rog-ally.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
+        "Legion Go": {
+          "themes/legion-go.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"]
+        },
+        "MSI Claw": {
+          "themes/msi-claw.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        }
       }
     },
     "Swap View/Menu with Guide/QAM": {
@@ -30,7 +103,7 @@
       "values": {
         "No": {},
         "Yes": {
-          "themes/variables/swap-view-menu-guide-qam.css": ["SP", "QuickAccess", "MainMenu"]
+          "themes/variables/swap-view-menu-guide-qam.css": ["all"]
         }
       }
     }

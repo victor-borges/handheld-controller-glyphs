@@ -1,0 +1,19 @@
+img[src="/steaminputglyphs/shared_dpad.svg"] {
+    content: url("/steaminputglyphs/ps_dpad.svg");
+}
+
+img[src="/steaminputglyphs/shared_dpad_up.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_up.svg");
+}
+
+img[src="/steaminputglyphs/shared_dpad_left.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_left.svg");
+}
+
+img[src="/steaminputglyphs/shared_dpad_right.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_right.svg");
+}
+
+img[src="/steaminputglyphs/shared_dpad_down.svg"] {
+    content: url("/steaminputglyphs/ps_dpad_down.svg");
+}
