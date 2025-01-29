@@ -9,7 +9,7 @@
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/controller-onexplayer2.png");
+    background-image: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/controller-onexplayer2.svg");
 }
 
 /* Controller Image - Steam Hori Controller */
@@ -17,7 +17,7 @@
     display: none;
 }
 .controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
-    background: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/controller-onexplayer2.png") center no-repeat;
+    background: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/controller-onexplayer2.svg") center no-repeat;
     background-size: contain;
 }
 
@@ -53,4 +53,16 @@ img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"],
 img[src="/steaminputglyphs/sd_button_menu.svg"] {
     content: var(--onexplayer-menu-img-content);
+}
+
+/* Back buttons */
+img[src="/steaminputglyphs/xbox_p3.svg"],
+img[src="/steaminputglyphs/ps_lb.svg"],
+img[src="/steaminputglyphs/hp_l4.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m1.png");
+}
+img[src="/steaminputglyphs/xbox_p1.svg"],
+img[src="/steaminputglyphs/ps_rb.svg"],
+img[src="/steaminputglyphs/hp_r4.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2.png");
 }
