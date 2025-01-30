@@ -1,19 +1,29 @@
 
 # Handheld Controller Glyphs
 
+![image](preview.png)
+
 A theme that changes the default controller glyphs to ones that match the handheld.
-Meant to be used with [HHD](https://github.com/antheas/hhd).
+Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
 
 ## Supported Themes
 
- - Lenovo Legion Go
- - ASUS ROG Ally
+ - Lenovo
+   - Legion Go
+ - ASUS
+   - ROG Ally
+   - ROG Ally X
  - AYANEO
- - GPD Win 3
- - GPD Win 4
- - GPG Win Mini
- - AOKZOE/ONEXPLAYER
- - Xbox Elite
+   - Air
+ - GPD
+   - Win 3
+   - Win 4
+   - Win Mini
+ - ONEXPLAYER
+   - ONEXPLAYER 2
+   - ONEXFLY
+ - MSI
+   - Claw
 
 ## Install
 

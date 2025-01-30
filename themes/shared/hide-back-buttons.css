@@ -1,0 +1,13 @@
+/* Hide back buttons that don't exist on the device */
+._1KA4m3xP2X5TGmO81UKYgL._30sIRI3p5gOFrdUD9wUeW2,
+._1KA4m3xP2X5TGmO81UKYgL._2VVUWQlnM4AYMoylu5Ajr,
+div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding-0"],
+div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding--1"],
+div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding-0"] *,
+div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding--1"] *,
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"],
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"],
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"] *,
+div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"] * {
+    display: none;
+}

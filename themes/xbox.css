@@ -35,14 +35,14 @@ img[src="/steaminputglyphs/sc_button_steam.svg"] {
 img[src="/steaminputglyphs/xbox360_button_select.svg"],
 img[src="/steaminputglyphs/ps5_button_create.svg"],
 img[src="/steaminputglyphs/sd_button_view.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/View.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
 }
 
 /* Start */
 img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"],
 img[src="/steaminputglyphs/sd_button_menu.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/Menu.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
 }
 
 /* Face Buttons */
@@ -73,11 +73,11 @@ img[src="/steaminputglyphs/shared_lstick_left.svg"] {
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_lstick_down.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/L-stick-down.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/lstick_down.svg");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_lstick_right.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/L-stick-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/lstick_right.svg");
     transform: scale(0.88);
 }
 img[src="/steaminputglyphs/shared_l3.svg"] {

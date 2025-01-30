@@ -1,0 +1,7 @@
+/* Hide trackpads that don't exist on the device */
+._1KA4m3xP2X5TGmO81UKYgL._3VNmumSYGqP4vaMVWVj5lb,
+._1KA4m3xP2X5TGmO81UKYgL._2_6CQKwvdpOgxSb5zw-ulr,
+._1KA4m3xP2X5TGmO81UKYgL.sn6dZLiytS9JRqLcrRgdl,
+._2mL2HfT5AkDXRi1YBnRWKa:has(> div > img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"]) {
+    display: none;
+}
