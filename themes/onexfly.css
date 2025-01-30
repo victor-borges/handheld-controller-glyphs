@@ -66,3 +66,11 @@ img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2.svg");
 }
+
+/* Controller Settings */
+img[src="/images/steamdeck_left.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/controller-onexfly-left.png");
+}
+img[src="/images/steamdeck_right.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/controller-onexfly-right.png");
+}

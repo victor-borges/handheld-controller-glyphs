@@ -64,3 +64,11 @@ img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/r4.svg");
 }
+
+/* Controller Settings */
+img[src="/images/steamdeck_left.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/controller-left.png");
+}
+img[src="/images/steamdeck_right.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/controller-right.png");
+}

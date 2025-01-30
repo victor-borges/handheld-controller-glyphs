@@ -60,3 +60,11 @@ img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/rc.svg");
 }
+
+/* Controller Settings */
+img[src="/images/steamdeck_left.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/controller-air-left.png");
+}
+img[src="/images/steamdeck_right.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/controller-air-right.png");
+}

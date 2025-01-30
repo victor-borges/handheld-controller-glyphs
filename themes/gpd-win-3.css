@@ -67,9 +67,9 @@ img[src="/steaminputglyphs/hp_r4.svg"] {
 }
 
 /* Controller Settings */
-img[src="/images/steamdeck_right.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/controller-right.png");
-}
 img[src="/images/steamdeck_left.png"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/controller-left.png");
+}
+img[src="/images/steamdeck_right.png"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/controller-right.png");
 }
