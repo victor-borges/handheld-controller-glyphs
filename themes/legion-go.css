@@ -66,22 +66,22 @@ img[src="/steaminputglyphs/ps_button_mute.svg"] {
 }
 
 /* Back buttons */
-img[src="/steaminputglyphs/xbox_p4.svg"],
+img[src="/steaminputglyphs/xbox_p3.svg"],
 img[src="/steaminputglyphs/ps_lfn.svg"],
 img[src="/steaminputglyphs/hp_m1.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/y2.svg");
 }
-img[src="/steaminputglyphs/xbox_p3.svg"],
+img[src="/steaminputglyphs/xbox_p4.svg"],
 img[src="/steaminputglyphs/ps_lb.svg"],
 img[src="/steaminputglyphs/hp_l4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/y1.svg");
 }
-img[src="/steaminputglyphs/xbox_p2.svg"],
+img[src="/steaminputglyphs/xbox_p1.svg"],
 img[src="/steaminputglyphs/ps_rfn.svg"],
 img[src="/steaminputglyphs/hp_m2.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/m3.svg");
 }
-img[src="/steaminputglyphs/xbox_p1.svg"],
+img[src="/steaminputglyphs/xbox_p2.svg"],
 img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/y3.svg");

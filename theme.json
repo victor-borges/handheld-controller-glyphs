@@ -77,7 +77,8 @@
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
         },
         "Legion Go": {
           "themes/legion-go.css": ["all"],
