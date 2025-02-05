@@ -3,7 +3,7 @@
 .controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
 .controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
-    background-image: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/controller-ayaneo-slide.svg");
+    background-image: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/slide/controller.svg");
 }
 
 /* Controller Image - Steam Hori Controller */
@@ -11,7 +11,7 @@
     display: none;
 }
 .controller_hori_steam ._3R2kU_aL39-YxgB3TuRgYc {
-    background: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/controller-ayaneo-slide.svg") center no-repeat;
+    background: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/slide/controller.svg") center no-repeat;
     background-size: contain;
 }
 
@@ -63,8 +63,8 @@ img[src="/steaminputglyphs/hp_m2.svg"] {
 
 /* Controller Settings */
 img[src="/images/steamdeck_left.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/controller-ayaneo-slide-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/slide/controller-left.png");
 }
 img[src="/images/steamdeck_right.png"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/controller-ayaneo-slide-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/slide/controller-right.png");
 }
