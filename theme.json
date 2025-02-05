@@ -3,11 +3,11 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.3",
+  "version": "v1.4",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
-    "themes/hhd.css": ["QuickAccess"]
+    "themes/shared/hhd.css": ["QuickAccess"]
   },
   "tabs": {
     "all": ["bigpicture", "QuickAccess", "MainMenu"]
@@ -16,8 +16,16 @@
     "Handheld": {
       "type": "dropdown",
       "values": {
+        "Anbernic Win600": {
+          "themes/anbernic/win600.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/ps-shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
         "ASUS ROG Ally": {
-          "themes/rog-ally.css": ["all"],
+          "themes/asus/rog-ally.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/shoulder-buttons.css": ["all"],
@@ -25,7 +33,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "AYANEO Air": {
-          "themes/ayaneo-air.css": ["all"],
+          "themes/ayaneo/ayaneo-air.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -34,7 +42,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "AYANEO 2": {
-          "themes/ayaneo-2.css": ["all"],
+          "themes/ayaneo/ayaneo-2.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -43,7 +51,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "AYANEO Kun": {
-          "themes/ayaneo-kun.css": ["all"],
+          "themes/ayaneo/ayaneo-kun.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -51,7 +59,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "AYANEO Neo": {
-          "themes/ayaneo-neo.css": ["all"],
+          "themes/ayaneo/ayaneo-neo.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -59,7 +67,7 @@
           "themes/shared/hide-trackpads.css": ["all"]
         },
         "AYANEO Next": {
-          "themes/ayaneo-next.css": ["all"],
+          "themes/ayaneo/ayaneo-next.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -68,7 +76,7 @@
           "themes/shared/hide-all-back-buttons.css": ["all"]
         },
         "AYANEO Slide": {
-          "themes/ayaneo-slide.css": ["all"],
+          "themes/ayaneo/ayaneo-slide.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -77,7 +85,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "GPD Win 3": {
-          "themes/gpd-win-3.css": ["all"],
+          "themes/gpd/gpd-win-3.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -86,7 +94,7 @@
           "themes/shared/hide-gyro.css": ["all"]
         },
         "GPD Win 4": {
-          "themes/gpd-win-4.css": ["all"],
+          "themes/gpd/gpd-win-4.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -94,7 +102,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "GPD Win Mini": {
-          "themes/gpd-win-mini.css": ["all"],
+          "themes/gpd/gpd-win-mini.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -102,7 +110,7 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "GPD Win Max 2": {
-          "themes/gpd-win-max-2.css": ["all"],
+          "themes/gpd/gpd-win-max-2.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -110,14 +118,14 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "Lenovo Legion Go": {
-          "themes/legion-go.css": ["all"],
+          "themes/lenovo/legion-go.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
           "themes/shared/shoulder-buttons.css": ["all"]
         },
         "MSI Claw": {
-          "themes/msi-claw.css": ["all"],
+          "themes/msi/claw.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -126,7 +134,7 @@
           "themes/shared/hide-trackpads.css": ["all"]
         },
         "ONEXPLAYER X1": {
-          "themes/onexplayer-x1.css": ["all"],
+          "themes/onexplayer/onexplayer-x1.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -135,7 +143,7 @@
           "themes/shared/hide-trackpads.css": ["all"]
         },
         "ONEXPLAYER 2": {
-          "themes/onexplayer-2.css": ["all"],
+          "themes/onexplayer/onexplayer-2.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -144,7 +152,7 @@
           "themes/shared/hide-trackpads.css": ["all"]
         },
         "ONEXFLY F1": {
-          "themes/onexfly-f1.css": ["all"],
+          "themes/onexplayer/onexfly-f1.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],

@@ -31,6 +31,8 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - ONEXFLY F1
  - MSI
    - Claw
+ - Anbernic
+   - Win600
 
 ## Install
 
