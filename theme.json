@@ -3,7 +3,7 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.1",
+  "version": "v1.2",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
@@ -15,13 +15,9 @@
   "patches": {
     "Handheld": {
       "type": "dropdown",
-      "default": "Xbox",
       "values": {
-        "Xbox": {
-          "themes/xbox.css": ["all"]
-        },
-        "AYANEO": {
-          "themes/ayaneo.css": ["all"],
+        "AYANEO Air": {
+          "themes/ayaneo-air.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -62,8 +58,8 @@
           "themes/shared/ps-shoulder-buttons.css": ["all"],
           "themes/shared/hide-back-buttons.css": ["all"]
         },
-        "ONEXPLAYER": {
-          "themes/onexplayer.css": ["all"],
+        "ONEXPLAYER X1": {
+          "themes/onexplayer-x1.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -71,8 +67,8 @@
           "themes/shared/hide-back-buttons.css": ["all"],
           "themes/shared/hide-trackpads.css": ["all"]
         },
-        "ONEXFLY": {
-          "themes/onexfly.css": ["all"],
+        "ONEXPLAYER 2": {
+          "themes/onexplayer-2.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -80,7 +76,16 @@
           "themes/shared/hide-back-buttons.css": ["all"],
           "themes/shared/hide-trackpads.css": ["all"]
         },
-        "ROG Ally / Ally X": {
+        "ONEXFLY F1": {
+          "themes/onexfly-f1.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
+        "ASUS ROG Ally": {
           "themes/rog-ally.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
@@ -88,7 +93,7 @@
           "themes/shared/hide-trackpads.css": ["all"],
           "themes/shared/hide-back-buttons.css": ["all"]
         },
-        "Legion Go": {
+        "Lenovo Legion Go": {
           "themes/legion-go.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
