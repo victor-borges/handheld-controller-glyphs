@@ -15,14 +15,19 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - ROG Ally X
  - AYANEO
    - Air
+   - 2
+   - Kun
+   - Neo
+   - Next
+   - Slide
  - GPD
    - Win 3
    - Win 4
    - Win Mini
    - Win Max 2
  - ONEXPLAYER
-   - ONEXPLAYER X1
-   - ONEXPLAYER 2
+   - X1
+   - 2
    - ONEXFLY F1
  - MSI
    - Claw
