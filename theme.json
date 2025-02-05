@@ -58,6 +58,15 @@
           "themes/shared/shoulder-buttons.css": ["all"],
           "themes/shared/hide-trackpads.css": ["all"]
         },
+        "AYANEO Next": {
+          "themes/ayaneo-next.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-all-back-buttons.css": ["all"]
+        },
         "GPD Win 3": {
           "themes/gpd-win-3.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
