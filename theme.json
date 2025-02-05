@@ -3,7 +3,7 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.0.0",
+  "version": "v1.1",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
@@ -48,6 +48,14 @@
         },
         "GPD Win Mini": {
           "themes/gpd-win-mini.css": ["all"],
+          "themes/shared/ps-dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/ps-shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
+        },
+        "GPD Win Max 2": {
+          "themes/gpd-win-max-2.css": ["all"],
           "themes/shared/ps-dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
