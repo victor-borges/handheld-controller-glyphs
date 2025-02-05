@@ -16,8 +16,25 @@
     "Handheld": {
       "type": "dropdown",
       "values": {
+        "ASUS ROG Ally": {
+          "themes/rog-ally.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
+        },
         "AYANEO Air": {
           "themes/ayaneo-air.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"]
+        },
+        "AYANEO 2": {
+          "themes/ayaneo-2.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -58,6 +75,22 @@
           "themes/shared/ps-shoulder-buttons.css": ["all"],
           "themes/shared/hide-back-buttons.css": ["all"]
         },
+        "Lenovo Legion Go": {
+          "themes/legion-go.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"]
+        },
+        "MSI Claw": {
+          "themes/msi-claw.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
         "ONEXPLAYER X1": {
           "themes/onexplayer-x1.css": ["all"],
           "themes/shared/dpad.css": ["all"],
@@ -78,30 +111,6 @@
         },
         "ONEXFLY F1": {
           "themes/onexfly-f1.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
-        },
-        "ASUS ROG Ally": {
-          "themes/rog-ally.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
-        },
-        "Lenovo Legion Go": {
-          "themes/legion-go.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"]
-        },
-        "MSI Claw": {
-          "themes/msi-claw.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
