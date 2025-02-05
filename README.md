@@ -19,9 +19,11 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Win 3
    - Win 4
    - Win Mini
+   - Win Max 2
  - ONEXPLAYER
+   - ONEXPLAYER X1
    - ONEXPLAYER 2
-   - ONEXFLY
+   - ONEXFLY F1
  - MSI
    - Claw
 
@@ -34,5 +36,5 @@ Decky and the CSS Loader Plugin must already be installed and enabled.
 
 ## Credits
 
- - [honjow](https://github.com/honjow): this theme was forked from their [SBP-PS5-to-Handheld](https://github.com/honjow/SBP-PS5-to-Handheld) theme.
- - [frazse](https://github.com/frazse): Legion Go images taken from their [SBP-Legion-Go-Theme](https://github.com/frazse/SBP-Legion-Go-Theme) theme.
+ - [honjow](https://github.com/honjow): originally forked from their [SBP-PS5-to-Handheld](https://github.com/honjow/SBP-PS5-to-Handheld) theme.
+ - [frazse](https://github.com/frazse): Legion Go images originally copied from their [SBP-Legion-Go-Theme](https://github.com/frazse/SBP-Legion-Go-Theme) theme.
