@@ -22,7 +22,8 @@
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
           "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-all-back-buttons.css": ["all"]
         },
         "ASUS ROG Ally": {
           "themes/asus/asus-rog-ally.css": ["all"],
