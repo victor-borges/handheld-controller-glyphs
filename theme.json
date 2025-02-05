@@ -17,7 +17,7 @@
       "type": "dropdown",
       "values": {
         "Anbernic Win600": {
-          "themes/anbernic/win600.css": ["all"],
+          "themes/anbernic/anbernic-win600.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
@@ -25,7 +25,7 @@
           "themes/shared/hide-trackpads.css": ["all"]
         },
         "ASUS ROG Ally": {
-          "themes/asus/rog-ally.css": ["all"],
+          "themes/asus/asus-rog-ally.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/shoulder-buttons.css": ["all"],
@@ -118,14 +118,14 @@
           "themes/shared/hide-back-buttons.css": ["all"]
         },
         "Lenovo Legion Go": {
-          "themes/lenovo/legion-go.css": ["all"],
+          "themes/lenovo/lenovo-legion-go.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
           "themes/shared/shoulder-buttons.css": ["all"]
         },
         "MSI Claw": {
-          "themes/msi/claw.css": ["all"],
+          "themes/msi/msi-claw.css": ["all"],
           "themes/shared/dpad.css": ["all"],
           "themes/shared/sticks.css": ["all"],
           "themes/shared/face-buttons.css": ["all"],
