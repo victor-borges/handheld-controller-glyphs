@@ -18,4 +18,8 @@
     --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/msi-center.svg");
     --msiclaw-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
     --msiclaw-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/qam.svg");
+
+    --tecno-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/input.svg");
+    --tecno-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --tecno-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/smart-box.svg");
 }
