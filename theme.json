@@ -3,7 +3,7 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.4",
+  "version": "v1.5",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
@@ -25,6 +25,15 @@
           "themes/shared/hide-trackpads.css": ["all"],
           "themes/shared/hide-all-back-buttons.css": ["all"],
           "themes/shared/hide-gyro.css": ["all"]
+        },
+        "AOKZOE A1": {
+          "themes/aokzoe/aokzoe-a1.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-all-back-buttons.css": ["all"]
         },
         "ASUS ROG Ally": {
           "themes/asus/asus-rog-ally.css": ["all"],
