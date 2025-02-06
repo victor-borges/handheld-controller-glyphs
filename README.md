@@ -33,6 +33,12 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Claw
  - Anbernic
    - Win600
+ - TECNO
+   - Pocket Go
+ - AYN
+   - Loki
+ - AOKZOE
+   - A1
 
 ## Install
 
