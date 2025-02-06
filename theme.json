@@ -161,6 +161,16 @@
           "themes/shared/shoulder-buttons.css": ["all"],
           "themes/shared/hide-back-buttons.css": ["all"],
           "themes/shared/hide-trackpads.css": ["all"]
+        },
+        "TECNO Pocket Go": {
+          "themes/tecno/tecno-pocket-go.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"],
+          "themes/shared/hide-all-back-buttons.css": ["all"],
+          "themes/shared/hide-gyro.css": ["all"]
         }
       }
     },
