@@ -56,12 +56,12 @@ img[src="/steaminputglyphs/sd_button_menu.svg"] {
 /* Back Buttons */
 img[src="/steaminputglyphs/xbox_p3.svg"],
 img[src="/steaminputglyphs/ps_lfn.svg"],
-img[src="/steaminputglyphs/hp_m1.svg"] {
+img[src="/steaminputglyphs/hp_l4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/l4.svg");
 }
 img[src="/steaminputglyphs/xbox_p1.svg"],
 img[src="/steaminputglyphs/ps_rfn.svg"],
-img[src="/steaminputglyphs/hp_m2.svg"] {
+img[src="/steaminputglyphs/hp_r4.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/r4.svg");
 }
 
