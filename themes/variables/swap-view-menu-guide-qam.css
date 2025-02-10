@@ -1,11 +1,11 @@
 :root {
-    --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/legion.svg");
+    --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/legion.svg");
     --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
-    --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/legion-go/qam.svg");
+    --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/qam.svg");
 
-    --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/command-center.png");
+    --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/command-center.png");
     --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
-    --rogally-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/rog-ally/armoury-crate.png");
+    --rogally-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/armoury-crate.png");
 
     --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
     --onexplayer-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
@@ -15,9 +15,9 @@
     --onexfly-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
     --onexfly-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/keyboard.svg");
 
-    --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/msi-center.svg");
+    --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/msi-center.svg");
     --msiclaw-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
-    --msiclaw-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi-claw/qam.svg");
+    --msiclaw-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/qam.svg");
 
     --tecno-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/input.svg");
     --tecno-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
