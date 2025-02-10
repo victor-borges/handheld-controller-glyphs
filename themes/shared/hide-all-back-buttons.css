@@ -7,22 +7,16 @@
 ._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/ps_rb.svg"]),
 ._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/xbox_p2.svg"]),
 ._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/hp_r4.svg"]),
-div[id="modeid-7-input-unknown EControllerModeInput ( 55 )-binding-0"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 55 )-binding--1"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 55 )-binding-0"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 55 )-binding--1"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 56 )-binding-0"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 56 )-binding--1"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 56 )-binding-0"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 56 )-binding--1"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding-0"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding--1"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding-0"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 57 )-binding--1"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"],
-div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding-0"] *,
-div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"] * {
+.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
+.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel *,
+div[id*="EControllerModeInput ( 55 )-binding-"],
+div[id*="EControllerModeInput ( 55 )-binding-"] *,
+div[id*="EControllerModeInput ( 56 )-binding-"],
+div[id*="EControllerModeInput ( 56 )-binding-"] *,
+div[id*="EControllerModeInput ( 57 )-binding-"],
+div[id*="EControllerModeInput ( 57 )-binding-"] *,
+div[id*="EControllerModeInput ( 58 )-binding-"],
+div[id*="EControllerModeInput ( 58 )-binding-"] * {
     display: none;
 }
 
@@ -33,6 +27,6 @@ div[id="modeid-7-input-unknown EControllerModeInput ( 58 )-binding--1"] * {
 
 /* Hide back buttons section in controller layouts */
 #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
-#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel *{
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel * {
     display: none;
 }
