@@ -1,13 +1,13 @@
 /* Hide in controller configuration screen */
-._2H5S67B87P-E-gIGLnerOf > .nnOTTmLAJXKRiD2yyn3Zy:nth-child(3),
-._2H5S67B87P-E-gIGLnerOf > .nnOTTmLAJXKRiD2yyn3Zy:nth-child(3) *,
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div._2DSDo4JNpZDoDpv34xUvLa > div > div._3oKuxJPG6j0jXgLgDGS43c.Panel > div._2H5S67B87P-E-gIGLnerOf.Panel > .nnOTTmLAJXKRiD2yyn3Zy:has(div.QAVElkR0V7KPXLjPVsvl-.Panel div._12TaaD8c9mqsb61o6m6nr1 + div._27Q1TQNf9VysifeaxYFyyU._2BHzj3D6OJd1nbPsnBNhuI),
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div._2DSDo4JNpZDoDpv34xUvLa > div > div._3oKuxJPG6j0jXgLgDGS43c.Panel > div._2H5S67B87P-E-gIGLnerOf.Panel > .nnOTTmLAJXKRiD2yyn3Zy:has(div.QAVElkR0V7KPXLjPVsvl-.Panel div._12TaaD8c9mqsb61o6m6nr1 + div._27Q1TQNf9VysifeaxYFyyU._2BHzj3D6OJd1nbPsnBNhuI) *,
 ._2mL2HfT5AkDXRi1YBnRWKa:has(> div > img[src="/steaminputglyphs/shared_gyro.svg"]),
 ._2mL2HfT5AkDXRi1YBnRWKa:has(> div > img[src="/steaminputglyphs/shared_gyro.svg"]) * {
     display: none
 }
 
 /* Hide in controller layout screen */
-div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
-div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel * {
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div._3KXWx6W4d1AK_pVdSlbpj6 > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div._3KXWx6W4d1AK_pVdSlbpj6 > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel * {
     display: none;
 }
