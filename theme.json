@@ -144,6 +144,15 @@
           "themes/shared/face-buttons.css": ["all"],
           "themes/shared/shoulder-buttons.css": ["all"]
         },
+        "Lenovo Legion Go S": {
+          "themes/lenovo/lenovo-legion-go-s.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
         "MSI Claw": {
           "themes/msi/msi-claw.css": ["all"],
           "themes/shared/dpad.css": ["all"],
