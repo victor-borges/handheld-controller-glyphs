@@ -10,6 +10,7 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
 
  - Lenovo
    - Legion Go
+   - Legion Go S
  - ASUS
    - ROG Ally
    - ROG Ally X
