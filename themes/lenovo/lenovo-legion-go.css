@@ -1,5 +1,5 @@
 :root {
-    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/legion.svg");
+    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion.svg");
     --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
     --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
 }
@@ -69,28 +69,22 @@ img[src="/steaminputglyphs/ps_button_mute.svg"] {
 img[src="/steaminputglyphs/xbox_p3.svg"],
 img[src="/steaminputglyphs/ps_lfn.svg"],
 img[src="/steaminputglyphs/hp_l4.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/y1.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y1.svg");
 }
 img[src="/steaminputglyphs/xbox_p4.svg"],
 img[src="/steaminputglyphs/ps_lb.svg"],
 img[src="/steaminputglyphs/hp_m1.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/y2.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y2.svg");
 }
 img[src="/steaminputglyphs/xbox_p1.svg"],
 img[src="/steaminputglyphs/ps_rfn.svg"],
 img[src="/steaminputglyphs/hp_r4.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/y3.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y3.svg");
 }
 img[src="/steaminputglyphs/xbox_p2.svg"],
 img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_m2.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/m3.svg");
-}
-
-/* Hide trackpads that don't exist on the device */
-._1KA4m3xP2X5TGmO81UKYgL._3VNmumSYGqP4vaMVWVj5lb,
-._1KA4m3xP2X5TGmO81UKYgL._2_6CQKwvdpOgxSb5zw-ulr {
-    display: none;
+    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/m3.svg");
 }
 
 /* Controller Settings */
@@ -101,6 +95,7 @@ img[src="/images/steamdeck_left.png"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller-left.png");
 }
 
+/* Small Controller Icon */
 ._3qDWQGB0rtwM3qpXTb11Q-._1oYt_BfxCHnA-_6sfUHiNn svg {
     display: none;
 }
