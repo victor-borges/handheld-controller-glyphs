@@ -3,7 +3,7 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.6",
+  "version": "v1.7",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
