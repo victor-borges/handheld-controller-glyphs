@@ -20,6 +20,9 @@ img[src="/steaminputglyphs/xbox_button_logo.svg"],
 img[src="/steaminputglyphs/ps4_button_logo.svg"],
 img[src="/steaminputglyphs/sc_button_steam.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/menu.svg");
+    width: 50px;
+    height: auto;
+    margin: -50% 0;
 }
 
 /* Guide - Steam */
