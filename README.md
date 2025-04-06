@@ -1,4 +1,3 @@
-
 # Handheld Controller Glyphs
 
 ![image](preview.png)
@@ -40,6 +39,8 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Loki
  - AOKZOE
    - A1
+ - Zotac
+   - Zone
 
 ## Install
 
