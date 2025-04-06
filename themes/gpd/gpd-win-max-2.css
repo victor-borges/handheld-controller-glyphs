@@ -20,6 +20,9 @@ img[src="/steaminputglyphs/xbox_button_logo.svg"],
 img[src="/steaminputglyphs/ps4_button_logo.svg"],
 img[src="/steaminputglyphs/sc_button_steam.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/menu.svg");
+    width: 36px;
+    height: auto;
+    margin: -50% 0;
 }
 
 /* Guide - Steam */
@@ -39,6 +42,9 @@ img[src="/steaminputglyphs/xbox360_button_select.svg"],
 img[src="/steaminputglyphs/ps5_button_create.svg"],
 img[src="/steaminputglyphs/sd_button_view.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/select.svg");
+    width: 36px;
+    height: auto;
+    margin: -50% 0;
 }
 
 /* Start */
@@ -47,6 +53,9 @@ img[src="/steaminputglyphs/xbox360_button_start.svg"],
 img[src="/steaminputglyphs/ps5_button_options.svg"],
 img[src="/steaminputglyphs/sd_button_menu.svg"] {
     content: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/start.svg");
+    width: 36px;
+    height: auto;
+    margin: -50% 0;
 }
 
 /* Back Buttons */
