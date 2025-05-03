@@ -162,6 +162,15 @@
           "themes/shared/hide-back-buttons.css": ["all"],
           "themes/shared/hide-trackpads.css": ["all"]
         },
+        "ONEXPLAYER G1": {
+          "themes/onexplayer/onexplayer-g1.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/shoulder-buttons.css": ["all"],
+          "themes/shared/hide-all-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
+        },
         "ONEXPLAYER X1": {
           "themes/onexplayer/onexplayer-x1.css": ["all"],
           "themes/shared/dpad.css": ["all"],
