@@ -27,6 +27,7 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Win Max 2
  - ONEXPLAYER
    - X1
+   - G1
    - 2
    - ONEXFLY F1
  - MSI
