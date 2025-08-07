@@ -42,6 +42,8 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - A1
  - Zotac
    - Zone
+ - TECTOY
+   - Zeenix
 
 ## Install
 
