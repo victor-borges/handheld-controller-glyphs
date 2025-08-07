@@ -3,7 +3,7 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.9",
+  "version": "v1.10",
   "target": "System-Wide",
   "manifest_version": 9,
   "inject": {
@@ -207,6 +207,15 @@
           "themes/shared/hide-trackpads.css": ["all"],
           "themes/shared/hide-all-back-buttons.css": ["all"],
           "themes/shared/hide-gyro.css": ["all"]
+        },
+        "TECTOY Zeenix": {
+          "themes/tectoy/tectoy-zeenix.css": ["all"],
+          "themes/shared/dpad.css": ["all"],
+          "themes/shared/sticks.css": ["all"],
+          "themes/shared/face-buttons.css": ["all"],
+          "themes/shared/ps-shoulder-buttons.css": ["all"],
+          "themes/shared/hide-back-buttons.css": ["all"],
+          "themes/shared/hide-trackpads.css": ["all"]
         },
         "Zotac Zone": {
           "themes/zotac/zotac-zone.css": ["all"],
