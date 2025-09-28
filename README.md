@@ -15,6 +15,7 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
  - AYANEO
    - Air
    - 2
+   - 3
    - Kun
    - Neo
    - Next
