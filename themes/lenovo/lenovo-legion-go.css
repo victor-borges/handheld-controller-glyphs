@@ -85,7 +85,7 @@ img[src="/steaminputglyphs/hp_r4.svg"] {
 img[src="/steaminputglyphs/xbox_p2.svg"],
 img[src="/steaminputglyphs/ps_rb.svg"],
 img[src="/steaminputglyphs/hp_m2.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/m3.svg");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m3.svg");
 }
 
 /* Controller Settings */
