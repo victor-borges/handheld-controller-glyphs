@@ -1,6 +1,7 @@
 :root {
     --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion.svg");
-    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    /* Legion Go 1 swaps Guide with Menu instead of View */
+    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
     --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/qam.svg");
 
     --rogally-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/command-center.png");
