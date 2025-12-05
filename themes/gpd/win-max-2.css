@@ -1,0 +1,12 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/menu.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/select.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/start.svg");
+
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/paddle-left.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-max-2/paddle-right.svg");
+}

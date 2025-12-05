@@ -1,0 +1,12 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/menu.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/select.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/start.svg");
+
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/l4.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-4/r4.svg");
+}

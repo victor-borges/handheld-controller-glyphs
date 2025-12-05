@@ -1,0 +1,9 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/aokzoe/a1/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/aokzoe/a1/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/aokzoe/a1/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/aokzoe/a1/home.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+}

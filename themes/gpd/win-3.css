@@ -1,0 +1,12 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/controller-right.png");
+
+    --button-guide-image: url("/steaminputglyphs/xbox_button_logo.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/select.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/start.svg");
+
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/paddle-left.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-3/paddle-right.svg");
+}

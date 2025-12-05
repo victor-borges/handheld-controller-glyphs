@@ -1,0 +1,30 @@
+:root {
+    --button-menu-image: var(--swap-menu-with-image, var(--button-menu-image));
+    --button-view-image: var(--swap-view-with-image, var(--button-view-image));
+    --button-guide-image: var(--swap-guide-with-image, var(--button-guide-image));
+
+    --legion-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion.svg");
+    /* Legion Go 1 swaps Guide with Menu and QAM with View */
+    --legion-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --legion-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/qam.svg");
+
+    --rogally-view-img-content: ;
+    --rogally-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --rogally-menu-img-content: ;
+
+    --onexplayer-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
+    --onexplayer-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --onexplayer-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/keyboard.svg");
+
+    --onexfly-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/home.svg");
+    --onexfly-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --onexfly-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/onexplayer/keyboard.svg");
+
+    --msiclaw-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/msi-center.svg");
+    --msiclaw-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --msiclaw-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/qam.svg");
+
+    --tecno-view-img-content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/input.svg");
+    --tecno-guide-img-content: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --tecno-menu-img-content: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/smart-box.svg");
+}

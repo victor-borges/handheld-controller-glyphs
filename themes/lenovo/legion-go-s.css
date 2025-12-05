@@ -1,0 +1,17 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-s/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-s/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-s/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/qam.svg");
+
+    --swap-guide-with-image: var(--button-view-image);
+    --swap-menu-with-image: var(--button-qam-image);
+    --swap-view-with-image: var(--button-guide-image);
+
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y1.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y2.svg");
+}
