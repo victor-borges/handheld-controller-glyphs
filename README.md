@@ -7,11 +7,15 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
 
 ## Supported Themes
 
- - Lenovo
-   - Legion Go
-   - Legion Go S
+ - Anbernic
+   - Win600
+ - AOKZOE
+   - A1
+ - AYN
+   - Loki
  - ASUS
    - ROG Ally
+   - ROG Xbox Ally
  - AYANEO
    - Air
    - 2
@@ -25,25 +29,23 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Win 4
    - Win Mini
    - Win Max 2
+ - Lenovo
+   - Legion Go
+   - Legion Go S
+   - Legion Go 2
+ - MSI
+   - Claw
  - ONEXPLAYER
    - X1
    - G1
    - 2
    - ONEXFLY F1
- - MSI
-   - Claw
- - Anbernic
-   - Win600
  - TECNO
    - Pocket Go
- - AYN
-   - Loki
- - AOKZOE
-   - A1
- - Zotac
-   - Zone
  - TECTOY
    - Zeenix
+ - Zotac
+   - Zone
 
 ## Install
 
