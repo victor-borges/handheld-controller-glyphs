@@ -11,7 +11,8 @@
     "default": ["bigpicture", "QuickAccess", "MainMenu"]
   },
   "inject": {
-    "themes/shared/hhd.css": ["QuickAccess"]
+    "themes/shared/hhd.css": ["QuickAccess"],
+    "themes/shared/allow-hiding.css": []
   },
   "patches": {
     "Handheld": {
@@ -321,16 +322,6 @@
         "No": {},
         "Yes": {
           "themes/shared/swap-xbox-command-center.css": []
-        }
-      }
-    },
-    "Hide features the device doesn't have": {
-      "type": "checkbox",
-      "default": "Yes",
-      "values": {
-        "No": {},
-        "Yes": {
-          "themes/shared/allow-hiding.css": []
         }
       }
     }
