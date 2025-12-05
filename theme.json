@@ -90,6 +90,8 @@
           "themes/shared/dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/l5-r5.css": [],
           "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Kun": {
@@ -109,6 +111,7 @@
           "themes/shared/ps-dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
           "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Next": {
@@ -118,8 +121,8 @@
           "themes/shared/dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
-          "themes/shared/hide-trackpads.css": [],
-          "themes/shared/hide-all-back-buttons.css": []
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Slide": {
           "themes/ayaneo/slide.css": [],
@@ -128,9 +131,9 @@
           "themes/shared/dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
-          "themes/shared/hide-trackpads.css": [],
           "themes/shared/l4-r4.css": [],
-          "themes/shared/hide-l5-r5.css": []
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYN Loki": {
           "themes/ayn/loki.css": [],
@@ -278,8 +281,8 @@
           "themes/shared/dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
-          "themes/shared/hide-trackpads.css": [],
           "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": [],
           "themes/shared/hide-gyro.css": []
         },
         "TECTOY Zeenix": {
