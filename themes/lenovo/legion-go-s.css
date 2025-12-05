@@ -12,6 +12,6 @@
     --swap-menu-with-image: var(--button-qam-image);
     --swap-view-with-image: var(--button-guide-image);
 
-    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y1.svg");
-    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y2.svg");
+    --button-l4-image: url("/steaminputglyphs/lgs_y1.svg");
+    --button-r4-image: url("/steaminputglyphs/lgs_y2.svg");
 }
