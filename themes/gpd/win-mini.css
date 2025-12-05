@@ -1,0 +1,12 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/menu.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/select.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/start.svg");
+
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/l4.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/gpd/win-mini/r4.svg");
+}

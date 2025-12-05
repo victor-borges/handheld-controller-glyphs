@@ -1,0 +1,28 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller.svg");
+    --controller-small-black-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller-small-black.svg");
+    --controller-small-white-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller-small-white.svg");
+    --controller-small-gray-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller-small-gray.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/qam.svg");
+
+    /* Legion Go 1 swaps Guide with Menu and QAM with View */
+    --swap-guide-with-image: var(--button-menu-image);
+    --swap-menu-with-image: var(--button-qam-image);
+    --swap-view-with-image: var(--button-guide-image);
+
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y1.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y3.svg");
+    --button-l5-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/y2.svg");
+    --button-r5-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/m3.svg");
+}
+
+/* PS Mute */
+img[src="/steaminputglyphs/ps_button_mute.svg"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2.svg");
+}

@@ -3,235 +3,308 @@
   "display_name": "Handheld Controller Glyphs",
   "author": "victor-borges",
   "description": "Change the controller glyphs to match the handheld.",
-  "version": "v1.13",
+  "version": "v2.0",
   "target": "System-Wide",
   "manifest_version": 9,
-  "inject": {
-    "themes/shared/hhd.css": ["QuickAccess"]
-  },
+  "flags": ["REQUIRE_NAV_PATCH"],
   "tabs": {
-    "all": ["bigpicture", "QuickAccess", "MainMenu"]
+    "default": ["bigpicture", "QuickAccess", "MainMenu"]
+  },
+  "inject": {
+    "themes/shared/hhd.css": ["QuickAccess"],
+    "themes/shared/allow-hiding.css": []
   },
   "patches": {
     "Handheld": {
       "type": "dropdown",
       "values": {
         "Anbernic Win600": {
-          "themes/anbernic/anbernic-win600.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-all-back-buttons.css": ["all"],
-          "themes/shared/hide-gyro.css": ["all"]
+          "themes/anbernic/win600.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": [],
+          "themes/shared/hide-gyro.css": []
         },
         "AOKZOE A1": {
-          "themes/aokzoe/aokzoe-a1.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-all-back-buttons.css": ["all"]
+          "themes/aokzoe/a1.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "ASUS ROG Ally": {
-          "themes/asus/asus-rog-ally.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/asus/rog-ally.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
+        },
+        "ASUS ROG Xbox Ally": {
+          "themes/asus/rog-xbox-ally.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Air": {
-          "themes/ayaneo/ayaneo-air.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/ayaneo/air.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO 2": {
-          "themes/ayaneo/ayaneo-2.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/ayaneo/2.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO 3": {
-          "themes/ayaneo/ayaneo-3.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/ayaneo/3.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Kun": {
-          "themes/ayaneo/ayaneo-kun.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/ayaneo/kun.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": []
         },
         "AYANEO Neo": {
-          "themes/ayaneo/ayaneo-neo.css": ["all"],
-          "themes/shared/ps-dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/ayaneo/neo.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/ps-dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Next": {
-          "themes/ayaneo/ayaneo-next.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-all-back-buttons.css": ["all"]
+          "themes/ayaneo/next.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYANEO Slide": {
-          "themes/ayaneo/ayaneo-slide.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/ayaneo/slide.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "AYN Loki": {
-          "themes/ayn/ayn-loki.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/ayn/loki.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "GPD Win 3": {
-          "themes/gpd/gpd-win-3.css": ["all"],
-          "themes/shared/ps-dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-gyro.css": ["all"]
+          "themes/gpd/win-3.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/ps-dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-gyro.css": []
         },
         "GPD Win 4": {
-          "themes/gpd/gpd-win-4.css": ["all"],
-          "themes/shared/ps-dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/gpd/win-4.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/ps-dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": []
         },
         "GPD Win Mini": {
-          "themes/gpd/gpd-win-mini.css": ["all"],
-          "themes/shared/ps-dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/gpd/win-mini.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/ps-dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": []
         },
         "GPD Win Max 2": {
-          "themes/gpd/gpd-win-max-2.css": ["all"],
-          "themes/shared/ps-dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/gpd/win-max-2.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/ps-dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": []
         },
         "Lenovo Legion Go": {
-          "themes/lenovo/lenovo-legion-go.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"]
+          "themes/lenovo/legion-go.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/controller-small.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/l5-r5.css": []
+        },
+        "Lenovo Legion Go 2": {
+          "themes/lenovo/legion-go-2.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/controller-small.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/l5-r5.css": []
         },
         "Lenovo Legion Go S": {
-          "themes/lenovo/lenovo-legion-go-s.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/lenovo/legion-go-s.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "MSI Claw": {
-          "themes/msi/msi-claw.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
-        },
-        "ONEXPLAYER G1": {
-          "themes/onexplayer/onexplayer-g1.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-all-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
-        },
-        "ONEXPLAYER X1": {
-          "themes/onexplayer/onexplayer-x1.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
-        },
-        "ONEXPLAYER 2": {
-          "themes/onexplayer/onexplayer-2.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/msi/claw.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "ONEXFLY F1": {
-          "themes/onexplayer/onexfly-f1.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/onexplayer/f1.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
+        },
+        "ONEXPLAYER G1": {
+          "themes/onexplayer/g1.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": []
+        },
+        "ONEXPLAYER X1": {
+          "themes/onexplayer/x1.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
+        },
+        "ONEXPLAYER 2": {
+          "themes/onexplayer/2.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "TECNO Pocket Go": {
-          "themes/tecno/tecno-pocket-go.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"],
-          "themes/shared/hide-all-back-buttons.css": ["all"],
-          "themes/shared/hide-gyro.css": ["all"]
+          "themes/tecno/pocket-go.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/hide-all-back-buttons.css": [],
+          "themes/shared/hide-trackpads.css": [],
+          "themes/shared/hide-gyro.css": []
         },
         "TECTOY Zeenix": {
-          "themes/tectoy/tectoy-zeenix.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/ps-shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"],
-          "themes/shared/hide-trackpads.css": ["all"]
+          "themes/tectoy/zeenix.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/ps-shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
         },
         "Zotac Zone": {
-          "themes/zotac/zotac-zone.css": ["all"],
-          "themes/shared/dpad.css": ["all"],
-          "themes/shared/sticks.css": ["all"],
-          "themes/shared/face-buttons.css": ["all"],
-          "themes/shared/shoulder-buttons.css": ["all"],
-          "themes/shared/hide-back-buttons.css": ["all"]
+          "themes/zotac/zone.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": []
         }
       }
     },
@@ -241,7 +314,17 @@
       "values": {
         "No": {},
         "Yes": {
-          "themes/variables/swap-view-menu-guide-qam.css": ["all"]
+          "themes/shared/swap-view-menu-guide-qam.css": []
+        }
+      }
+    },
+    "[ROG Xbox Ally] Swap Xbox with Command Center": {
+      "type": "checkbox",
+      "default": "No",
+      "values": {
+        "No": {},
+        "Yes": {
+          "themes/shared/swap-xbox-command-center.css": []
         }
       }
     }

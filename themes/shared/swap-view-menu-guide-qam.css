@@ -1,0 +1,5 @@
+:root {
+    --override-menu-image: var(--swap-menu-with-image, var(--button-menu-image));
+    --override-view-image: var(--swap-view-with-image, var(--button-view-image));
+    --override-guide-image: var(--swap-guide-with-image, var(--button-guide-image));
+}

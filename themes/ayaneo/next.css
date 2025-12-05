@@ -1,0 +1,9 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/next/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/next/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/next/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/ayaneo/ayaspace.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+}

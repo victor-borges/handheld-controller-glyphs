@@ -1,0 +1,14 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/input.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
+    --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/tecno/pocket-go/smart-box.svg");
+
+    --swap-guide-with-image: var(--button-view-image);
+    --swap-menu-with-image: var(--button-qam-image);
+    --swap-view-with-image: var(--button-guide-image);
+}

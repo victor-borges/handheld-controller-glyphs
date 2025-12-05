@@ -1,0 +1,9 @@
+:root {
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/anbernic/win600/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/anbernic/win600/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/anbernic/win600/controller-right.png");
+
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/anbernic/win600/home.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/anbernic/win600/select.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/anbernic/win600/start.svg");
+}

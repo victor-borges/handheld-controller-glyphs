@@ -1,0 +1,15 @@
+/* L5 */
+img[src="/steaminputglyphs/sd_l5.svg"],
+img[src="/steaminputglyphs/xbox_p4.svg"],
+img[src="/steaminputglyphs/ps_lb.svg"],
+img[src="/steaminputglyphs/hp_m1.svg"] {
+    content: var(--button-l5-image, url("/steaminputglyphs/sd_l5.svg"));
+}
+
+/* R5 */
+img[src="/steaminputglyphs/sd_r5.svg"],
+img[src="/steaminputglyphs/xbox_p2.svg"],
+img[src="/steaminputglyphs/ps_rb.svg"],
+img[src="/steaminputglyphs/hp_m2.svg"] {
+    content: var(--button-r5-image, url("/steaminputglyphs/sd_r5.svg"));
+}
