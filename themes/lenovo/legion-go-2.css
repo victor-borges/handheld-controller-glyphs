@@ -1,8 +1,6 @@
 :root {
     --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller.svg");
-    --controller-small-black-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller-small-black.svg");
-    --controller-small-white-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller-small-white.svg");
-    --controller-small-gray-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller-small-gray.svg");
+    --controller-small-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller-small.svg");
     --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller-left.png");
     --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/legion-go-2/controller-right.png");
 
