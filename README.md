@@ -11,8 +11,6 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Win600
  - AOKZOE
    - A1
- - AYN
-   - Loki
  - ASUS
    - ROG Ally
    - ROG Xbox Ally
@@ -24,6 +22,8 @@ Meant to be used with [HHD](https://github.com/hhd-dev/hhd).
    - Neo
    - Next
    - Slide
+ - AYN
+   - Loki
  - GPD
    - Win 3
    - Win 4
