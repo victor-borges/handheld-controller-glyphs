@@ -6,6 +6,7 @@
   "version": "v2.0",
   "target": "System-Wide",
   "manifest_version": 9,
+  "flags": ["REQUIRE_NAV_PATCH"],
   "tabs": {
     "default": ["bigpicture", "QuickAccess", "MainMenu"]
   },
