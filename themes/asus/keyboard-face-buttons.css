@@ -1,0 +1,29 @@
+._pLfQJE2o_KeyboardKeyHitArea {
+    /* A/South */
+    &img[src="/steaminputglyphs/ps_button_x.svg"],
+    &img[src="/steaminputglyphs/shared_button_a.svg"],
+    &img[src="/steaminputglyphs/shared_color_button_a.svg"] {
+        content: url("/themes_custom/handheld-controller-glyphs/assets/asus/mono-a.svg");
+    }
+
+    /* B/East */
+    &img[src="/steaminputglyphs/ps_button_circle.svg"],
+    &img[src="/steaminputglyphs/shared_button_b.svg"],
+    &img[src="/steaminputglyphs/shared_color_button_b.svg"] {
+        content: url("/themes_custom/handheld-controller-glyphs/assets/asus/mono-b.svg");
+    }
+
+    /* X/West */
+    &img[src="/steaminputglyphs/ps_button_square.svg"],
+    &img[src="/steaminputglyphs/shared_button_x.svg"],
+    &img[src="/steaminputglyphs/shared_color_button_x.svg"] {
+        content: url("/themes_custom/handheld-controller-glyphs/assets/asus/mono-x.svg");
+    }
+
+    /* Y/North */
+    &img[src="/steaminputglyphs/ps_button_triangle.svg"],
+    &img[src="/steaminputglyphs/shared_button_y.svg"],
+    &img[src="/steaminputglyphs/shared_color_button_y.svg"] {
+        content: url("/themes_custom/handheld-controller-glyphs/assets/asus/mono-y.svg");
+    }
+}

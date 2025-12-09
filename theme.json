@@ -43,6 +43,7 @@
           "themes/asus/rog-ally.css": [],
           "themes/shared/controller-image.css": [],
           "themes/shared/face-buttons.css": [],
+          "themes/asus/keyboard-face-buttons.css": [],
           "themes/shared/dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
@@ -54,6 +55,7 @@
           "themes/asus/rog-xbox-ally.css": [],
           "themes/shared/controller-image.css": [],
           "themes/shared/face-buttons.css": [],
+          "themes/asus/keyboard-face-buttons.css": [],
           "themes/shared/dpad.css": [],
           "themes/shared/sticks.css": [],
           "themes/shared/shoulder-buttons.css": [],
@@ -318,13 +320,13 @@
         }
       }
     },
-    "[ROG Xbox Ally] Swap Xbox with Command Center": {
+    "[ROG Xbox Ally] Swap Xbox with Armory Crate": {
       "type": "checkbox",
       "default": "No",
       "values": {
         "No": {},
         "Yes": {
-          "themes/shared/swap-xbox-command-center.css": []
+          "themes/shared/swap-xbox-armory-crate.css": []
         }
       }
     }
