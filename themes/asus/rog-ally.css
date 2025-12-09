@@ -3,20 +3,20 @@
     --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/controller-left.png");
     --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/controller-right.png");
 
-    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/command-center.png");
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/command-center.svg");
     --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
     --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
-    --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/armory-crate.png");
+    --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/armory-crate.svg");
 
     --swap-guide-with-image: var(--button-view-image);
     --swap-menu-with-image: var(--button-qam-image);
     --swap-view-with-image: var(--button-guide-image);
 
-    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2.svg");
-    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/m1.svg");
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/m2-left.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/m1-right.svg");
 
-    --button-a-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/a.svg");
-    --button-b-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/b.svg");
-    --button-x-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/x.svg");
-    --button-y-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/rog-ally/y.svg");
+    --button-a-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/a.svg");
+    --button-b-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/b.svg");
+    --button-x-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/x.svg");
+    --button-y-image: url("/themes_custom/handheld-controller-glyphs/assets/asus/y.svg");
 }
