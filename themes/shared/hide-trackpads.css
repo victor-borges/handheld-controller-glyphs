@@ -3,5 +3,5 @@
 ._1KA4m3xP2X5TGmO81UKYgL._2_6CQKwvdpOgxSb5zw-ulr,
 ._1KA4m3xP2X5TGmO81UKYgL.sn6dZLiytS9JRqLcrRgdl,
 ._2mL2HfT5AkDXRi1YBnRWKa:has(> div > img[src="/steaminputglyphs/sd_ltrackpad_swipe.svg"]) {
-    visibility: var(--visibility);
+    display: var(--display-none);
 }
