@@ -12,7 +12,7 @@
   },
   "inject": {
     "themes/shared/hhd.css": ["QuickAccess"],
-    "themes/shared/allow-hiding.css": []
+    "themes/shared/hiding.css": []
   },
   "patches": {
     "Handheld": {
@@ -327,6 +327,18 @@
         "No": {},
         "Yes": {
           "themes/shared/swap-xbox-armory-crate.css": []
+        }
+      }
+    },
+    "Hide buttons and features that the device doesn't have": {
+      "type": "checkbox",
+      "default": "Yes",
+      "values": {
+        "No": {
+          "themes/shared/hiding-disabled.css": []
+        },
+        "Yes": {
+          "themes/shared/hiding-enabled.css": []
         }
       }
     }

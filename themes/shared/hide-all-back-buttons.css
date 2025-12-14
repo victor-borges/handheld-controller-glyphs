@@ -15,16 +15,22 @@ div[id*="EControllerModeInput ( 57 )-binding-"],
 div[id*="EControllerModeInput ( 57 )-binding-"] *,
 div[id*="EControllerModeInput ( 58 )-binding-"],
 div[id*="EControllerModeInput ( 58 )-binding-"] * {
-    display: var(--display-none);
+    @container style(--hiding-enabled: 1) {
+        display: none;
+    }
 }
 
 /* Hide back buttons section header */
 #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div > div > div > div.DialogContentTransition.ZjHHXZlnZhCahNrBFplWc.Panel > div > div > div > div > div > div:nth-child(2) > div > div:nth-child(2) > div._28XRnqSU3Raai3pQdlDNsS.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel:nth-child(4) {
-    display: var(--display-none);
+    @container style(--hiding-enabled: 1) {
+        display: none;
+    }
 }
 
 /* Hide back buttons section in controller layouts */
 #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
 #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel * {
-    display: var(--display-none);
+    @container style(--hiding-enabled: 1) {
+        display: none;
+    }
 }
