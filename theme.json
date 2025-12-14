@@ -334,10 +334,10 @@
       "default": "Yes",
       "values": {
         "No": {
-          "--display-none": "initial"
+          "--display-none": ["initial"]
         },
         "Yes": {
-          "--display-none": "none"
+          "--display-none": ["none"]
         }
       }
     }
