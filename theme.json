@@ -334,10 +334,10 @@
       "default": "Yes",
       "values": {
         "No": {
-          "themes/shared/disallow-hiding.css": []
+          "themes/shared/hiding-disabled.css": []
         },
         "Yes": {
-          "themes/shared/allow-hiding.css": []
+          "themes/shared/hiding-enabled.css": []
         }
       }
     }
