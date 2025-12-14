@@ -11,8 +11,7 @@
     "default": ["bigpicture", "QuickAccess", "MainMenu"]
   },
   "inject": {
-    "themes/shared/hhd.css": ["QuickAccess"],
-    "themes/shared/allow-hiding.css": []
+    "themes/shared/hhd.css": ["QuickAccess"]
   },
   "patches": {
     "Handheld": {
@@ -327,6 +326,16 @@
         "No": {},
         "Yes": {
           "themes/shared/swap-xbox-armory-crate.css": []
+        }
+      }
+    },
+    "Hide buttons or features that the device does not have": {
+      "type": "checkbox",
+      "default": "Yes",
+      "values": {
+        "No": {},
+        "Yes": {
+          "themes/shared/allow-hiding.css": []
         }
       }
     }
