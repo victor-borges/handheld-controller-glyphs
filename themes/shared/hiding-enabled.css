@@ -1,1 +1,3 @@
-@custom-media --hiding-enabled true;
+:root {
+    --hiding-enabled: 1;
+}

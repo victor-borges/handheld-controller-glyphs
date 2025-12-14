@@ -1,32 +1,36 @@
-@media (--hiding-enabled) {
-    /* Hide back buttons that don't exist on the device */
-    ._1KA4m3xP2X5TGmO81UKYgL._30sIRI3p5gOFrdUD9wUeW2,
-    ._1KA4m3xP2X5TGmO81UKYgL._2VVUWQlnM4AYMoylu5Ajr,
-    ._1KA4m3xP2X5TGmO81UKYgL._3eORnJNDqWC-fDQP-iI5yt:has(img[src="/steaminputglyphs/ps_lb.svg"]),
-    ._1KA4m3xP2X5TGmO81UKYgL._3eORnJNDqWC-fDQP-iI5yt:has(img[src="/steaminputglyphs/xbox_p4.svg"]),
-    ._1KA4m3xP2X5TGmO81UKYgL._3eORnJNDqWC-fDQP-iI5yt:has(img[src="/steaminputglyphs/hp_l4.svg"]),
-    ._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/ps_rb.svg"]),
-    ._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/xbox_p2.svg"]),
-    ._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/hp_r4.svg"]),
-    div[id*="EControllerModeInput ( 55 )-binding-"],
-    div[id*="EControllerModeInput ( 55 )-binding-"] *,
-    div[id*="EControllerModeInput ( 56 )-binding-"],
-    div[id*="EControllerModeInput ( 56 )-binding-"] *,
-    div[id*="EControllerModeInput ( 57 )-binding-"],
-    div[id*="EControllerModeInput ( 57 )-binding-"] *,
-    div[id*="EControllerModeInput ( 58 )-binding-"],
-    div[id*="EControllerModeInput ( 58 )-binding-"] * {
+/* Hide back buttons that don't exist on the device */
+._1KA4m3xP2X5TGmO81UKYgL._30sIRI3p5gOFrdUD9wUeW2,
+._1KA4m3xP2X5TGmO81UKYgL._2VVUWQlnM4AYMoylu5Ajr,
+._1KA4m3xP2X5TGmO81UKYgL._3eORnJNDqWC-fDQP-iI5yt:has(img[src="/steaminputglyphs/ps_lb.svg"]),
+._1KA4m3xP2X5TGmO81UKYgL._3eORnJNDqWC-fDQP-iI5yt:has(img[src="/steaminputglyphs/xbox_p4.svg"]),
+._1KA4m3xP2X5TGmO81UKYgL._3eORnJNDqWC-fDQP-iI5yt:has(img[src="/steaminputglyphs/hp_l4.svg"]),
+._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/ps_rb.svg"]),
+._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/xbox_p2.svg"]),
+._1KA4m3xP2X5TGmO81UKYgL._11obaBOM-w3f1pVTV_kb-G:has(img[src="/steaminputglyphs/hp_r4.svg"]),
+div[id*="EControllerModeInput ( 55 )-binding-"],
+div[id*="EControllerModeInput ( 55 )-binding-"] *,
+div[id*="EControllerModeInput ( 56 )-binding-"],
+div[id*="EControllerModeInput ( 56 )-binding-"] *,
+div[id*="EControllerModeInput ( 57 )-binding-"],
+div[id*="EControllerModeInput ( 57 )-binding-"] *,
+div[id*="EControllerModeInput ( 58 )-binding-"],
+div[id*="EControllerModeInput ( 58 )-binding-"] * {
+    @container style(--hiding-enabled: 1) {
         display: none;
     }
+}
 
-    /* Hide back buttons section header */
-    #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div > div > div > div.DialogContentTransition.ZjHHXZlnZhCahNrBFplWc.Panel > div > div > div > div > div > div:nth-child(2) > div > div:nth-child(2) > div._28XRnqSU3Raai3pQdlDNsS.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel:nth-child(4) {
+/* Hide back buttons section header */
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div > div > div > div.DialogContentTransition.ZjHHXZlnZhCahNrBFplWc.Panel > div > div > div > div > div > div:nth-child(2) > div > div:nth-child(2) > div._28XRnqSU3Raai3pQdlDNsS.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz._3LCXhoVmpvqbOW8fsItdTl.GxgIyq8R5xTOeu4ftGrgX.ljcbLhG2-njpG2eCdWOyu._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel:nth-child(4) {
+    @container style(--hiding-enabled: 1) {
         display: none;
     }
+}
 
-    /* Hide back buttons section in controller layouts */
-    #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
-    #Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel * {
+/* Hide back buttons section in controller layouts */
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel,
+#Main > div > div._1iKmxBdl6hxX7tJdDfn_uB > div > div > div > div.APY6jDS50MNUPuX38IgC0._3td3cAnGbbbAOXW8x2pD-j._29WypCpglgRKsR_fMPsoFX.Panel > div._3RsRfCOW7Do0JNHcEs2nqX._1fpxbsuJYWt56w-4AnTiL2.Panel > div.Panel > div.eKmEXJCm_lgme24Fp_HWt._2bDqk4Jeoyk1wZd7ttBNAR._16vVnDqpbNs-zIH-EdV6Vz.GxgIyq8R5xTOeu4ftGrgX._3nLNLFMUMSt4jvxIayuPV3.xIITXDcM70faUNqssgUyx._2HFrmMgB38Ike5w4rVxzEX.Panel * {
+    @container style(--hiding-enabled: 1) {
         display: none;
     }
 }

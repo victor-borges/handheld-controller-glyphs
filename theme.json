@@ -11,7 +11,8 @@
     "default": ["bigpicture", "QuickAccess", "MainMenu"]
   },
   "inject": {
-    "themes/shared/hhd.css": ["QuickAccess"]
+    "themes/shared/hhd.css": ["QuickAccess"],
+    "themes/shared/hiding.css": []
   },
   "patches": {
     "Handheld": {
