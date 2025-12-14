@@ -329,13 +329,15 @@
         }
       }
     },
-    "Hide buttons or features that the device does not have": {
+    "Hide buttons and features that the device doesn't have": {
       "type": "checkbox",
       "default": "Yes",
       "values": {
-        "No": {},
+        "No": {
+          "--display-none": "initial"
+        },
         "Yes": {
-          "themes/shared/allow-hiding.css": []
+          "--display-none": "none"
         }
       }
     }
