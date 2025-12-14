@@ -334,10 +334,10 @@
       "default": "Yes",
       "values": {
         "No": {
-          "--display-none": ["initial"]
+          "themes/shared/disallow-hiding.css": []
         },
         "Yes": {
-          "--display-none": ["none"]
+          "themes/shared/allow-hiding.css": []
         }
       }
     }
