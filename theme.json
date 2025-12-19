@@ -11,7 +11,6 @@
     "default": ["bigpicture", "QuickAccess", "MainMenu"]
   },
   "inject": {
-    "themes/shared/hhd.css": ["QuickAccess"],
     "themes/shared/hiding.css": []
   },
   "patches": {
@@ -335,10 +334,10 @@
       "default": "Yes",
       "values": {
         "No": {
-          "themes/shared/hiding-disabled.css": []
+          "--hiding-enabled": [0]
         },
         "Yes": {
-          "themes/shared/hiding-enabled.css": []
+          "--hiding-enabled": [1]
         }
       }
     }
