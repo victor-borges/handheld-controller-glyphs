@@ -3,7 +3,6 @@
 ![image](preview.png)
 
 A theme that changes the default controller glyphs to ones that match the handheld.
-Meant to be used with [HHD](https://github.com/hhd-dev/hhd) or [InputPlumber](https://github.com/ShadowBlip/InputPlumber).
 
 ## Supported Themes
 
