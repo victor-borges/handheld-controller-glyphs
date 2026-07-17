@@ -1,10 +1,5 @@
 /* Controller Images */
-.controller_legion_go .controllerconfiguratorsummary_BackgroundController_rlz-U,
-.controller_rog_ally .controllerconfiguratorsummary_BackgroundController_rlz-U,
-.controller_ps5 .controllerconfiguratorsummary_BackgroundController_rlz-U,
-.controller_ps5_edge .controllerconfiguratorsummary_BackgroundController_rlz-U,
-.controller_generic .controllerconfiguratorsummary_BackgroundController_rlz-U,
-.controller_xboxelite .controllerconfiguratorsummary_BackgroundController_rlz-U {
+._3TvBVwaH8eIBabTdki35oe .rlz-U2wn9ktH5Z9trfpZa {
     background-image: var(--controller-image);
 }
 
