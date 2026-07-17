@@ -11,8 +11,7 @@
     --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
     --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/lenovo/qam.svg");
 
-    /* Legion Go 1 swaps Guide with Menu and QAM with View */
-    --swap-guide-with-image: var(--button-menu-image);
+    --swap-guide-with-image: var(--button-view-image);
     --swap-menu-with-image: var(--button-qam-image);
     --swap-view-with-image: var(--button-guide-image);
 
