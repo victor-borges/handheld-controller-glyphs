@@ -1,9 +1,9 @@
 :root {
-    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/controller.svg");
-    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/controller-left.png");
-    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw/controller-right.png");
+    --controller-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw-a8/controller.svg");
+    --controller-left-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw-a8/controller-left.png");
+    --controller-right-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/claw-a8/controller-right.png");
 
-    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/msi-center.svg");
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/msi-m.svg");
     --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/view.svg");
     --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/shared/menu.svg");
     --button-qam-image: url("/themes_custom/handheld-controller-glyphs/assets/msi/qam.svg");
