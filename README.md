@@ -34,6 +34,7 @@ A theme that changes the default controller glyphs to ones that match the handhe
    - Legion Go 2
  - MSI
    - Claw
+   - Claw A8
  - ONEXPLAYER
    - X1
    - G1
