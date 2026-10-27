@@ -30,19 +30,19 @@ img[src="/steaminputglyphs/shared_lstick_touch.svg"] {
 
 /* Right Stick */
 img[src="/steaminputglyphs/shared_rstick_up.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-up.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-up.svg");
 }
 
 img[src="/steaminputglyphs/shared_rstick_left.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-left.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-left.svg");
 }
 
 img[src="/steaminputglyphs/shared_rstick_down.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-down.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-down.svg");
 }
 
 img[src="/steaminputglyphs/shared_rstick_right.svg"] {
-    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-right.png");
+    content: url("/themes_custom/handheld-controller-glyphs/assets/shared/rstick-right.svg");
 }
 
 img[src="/steaminputglyphs/shared_rstick.svg"] {
