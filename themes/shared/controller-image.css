@@ -3,6 +3,11 @@
     background-image: var(--controller-image);
 }
 
+/* Keep the replacement background, but hide the Legion Go S SVG artwork. */
+.controller_legion_go_s svg.rlz-U2wn9ktH5Z9trfpZa > * {
+    display: none;
+}
+
 /* Controller Image SVG - Steam Hori Controller */
 .controller_hori_steam svg {
     display: none;
