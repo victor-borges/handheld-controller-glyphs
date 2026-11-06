@@ -62,6 +62,18 @@
           "themes/shared/hide-l5-r5.css": [],
           "themes/shared/hide-trackpads.css": []
         },
+        "ASUS ROG Xbox Ally X20": {
+          "themes/asus/rog-xbox-ally-x20.css": [],
+          "themes/shared/controller-image.css": [],
+          "themes/shared/face-buttons.css": [],
+          "themes/asus/keyboard-face-buttons.css": [],
+          "themes/shared/dpad.css": [],
+          "themes/shared/sticks.css": [],
+          "themes/shared/shoulder-buttons.css": [],
+          "themes/shared/l4-r4.css": [],
+          "themes/shared/hide-l5-r5.css": [],
+          "themes/shared/hide-trackpads.css": []
+        },
         "AYANEO Air": {
           "themes/ayaneo/air.css": [],
           "themes/shared/controller-image.css": [],
