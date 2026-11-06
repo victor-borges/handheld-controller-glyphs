@@ -13,6 +13,7 @@ A theme that changes the default controller glyphs to ones that match the handhe
  - ASUS
    - ROG Ally
    - ROG Xbox Ally
+   - ROG Xbox Ally X20
  - AYANEO
    - Air
    - 2
