@@ -6,6 +6,8 @@ A theme that changes the default controller glyphs to ones that match the handhe
 
 ## Supported Themes
 
+ - 8BitDo
+   - Ultimate 2C (external controller, glyphs only)
  - Anbernic
    - Win600
  - AOKZOE
@@ -54,7 +56,17 @@ https://deckthemes.com/themes/view?themeId=27d2dfb0-f58c-468f-81d5-f06534534133
 
 Decky and the CSS Loader Plugin must already be installed and enabled.
 
+### 8BitDo Ultimate 2C
+
+Select **8BitDo Ultimate 2C (glyphs only)** in the theme's **Handheld** dropdown.
+This adds white SVG button prompts while keeping Steam's original interactive
+controller diagrams and button testing. It changes appearance only; it does not
+remap inputs or detect the controller automatically.
+
+See the [glyph preview and details](themes/8bitdo/README.md).
+
 ## Credits
 
  - [honjow](https://github.com/honjow): originally forked from their [SBP-PS5-to-Handheld](https://github.com/honjow/SBP-PS5-to-Handheld) theme.
  - [frazse](https://github.com/frazse): Legion Go images originally copied from their [SBP-Legion-Go-Theme](https://github.com/frazse/SBP-Legion-Go-Theme) theme.
+ - [MaomaoADHD](https://github.com/MaomaoADHD): Ultimate 2C SVG artwork and glyph-only integration.

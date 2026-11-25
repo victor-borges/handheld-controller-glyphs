@@ -317,6 +317,10 @@
           "themes/shared/shoulder-buttons.css": [],
           "themes/shared/l4-r4.css": [],
           "themes/shared/hide-l5-r5.css": []
+        },
+        "8BitDo Ultimate 2C (glyphs only)": {
+          "themes/8bitdo/ultimate-2c.css": [],
+          "themes/shared/face-buttons.css": []
         }
       }
     },
