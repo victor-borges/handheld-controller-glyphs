@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 464" role="img" aria-label="8BitDo Ultimate 2C glyph sheet"><rect width="100%" height="100%" fill="#18181b"/><g transform="translate(0,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 50.0 77.0 L 60.0 43.0 L 70.0 77.0 M 53.8 64.8 L 66.2 64.8" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">a</text></g>
+<g transform="translate(128,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 50.0 43.0 L 50.0 77.0 M 50.0 43.0 L 61.1 43.0 C 71.0 43.0, 71.0 59.3, 61.1 59.3 L 50.0 59.3 M 61.5 59.3 C 72.2 59.3, 72.2 77.0, 61.5 77.0 L 50.0 77.0" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">b</text></g>
+<g transform="translate(256,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 49.0 44.0 L 71.0 76.0 M 71.0 44.0 L 49.0 76.0" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">x</text></g>
+<g transform="translate(384,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 49.0 43.0 L 60.0 61.0 L 71.0 43.0 M 60.0 61.0 L 60.0 77.0" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">y</text></g>
+<g transform="translate(512,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <g fill="#FFFFFF">
+    <rect x="46.5" y="42.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="64.5" y="42.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="37.5" y="51.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="55.5" y="51.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="73.5" y="51.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="46.5" y="60.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="64.5" y="60.0" width="9.0" height="9.0" rx="0.8"/>
+    <rect x="55.5" y="69.0" width="9.0" height="9.0" rx="0.8"/>
+  </g>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">Home / Guide</text></g>
+<g transform="translate(640,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <rect x="44.0" y="56.4" width="32.0" height="7.2" rx="3.6" fill="#FFFFFF"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">View (-)</text></g>
+<g transform="translate(768,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" x="28" y="12" width="72" height="72">
+  <circle cx="60" cy="60" r="44" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <g fill="#FFFFFF">
+    <rect x="44.0" y="56.4" width="32.0" height="7.2" rx="3.6"/>
+    <rect x="56.4" y="44.0" width="7.2" height="32.0" rx="3.6"/>
+  </g>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">Menu (+)</text></g>
+<g transform="translate(896,0)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 68 14 L 112 14 Q 120 14 120 22 L 120 60 L 158 60 Q 166 60 166 68 L 166 112 Q 166 120 158 120 L 120 120 L 120 158 Q 120 166 112 166 L 68 166 Q 60 166 60 158 L 60 120 L 22 120 Q 14 120 14 112 L 14 68 Q 14 60 22 60 L 60 60 L 60 22 Q 60 14 68 14 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <circle cx="90" cy="90" r="20" fill="none" stroke="#FFFFFF" stroke-width="2.20"/>
+  <polygon points="90.00,26.00 79.00,41.00 101.00,41.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="90.00,154.00 79.00,139.00 101.00,139.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="26.00,90.00 41.00,79.00 41.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="154.00,90.00 139.00,79.00 139.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">dpad</text></g>
+<g transform="translate(0,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 68 14 L 112 14 Q 120 14 120 22 L 120 60 L 158 60 Q 166 60 166 68 L 166 112 Q 166 120 158 120 L 120 120 L 120 158 Q 120 166 112 166 L 68 166 Q 60 166 60 158 L 60 120 L 22 120 Q 14 120 14 112 L 14 68 Q 14 60 22 60 L 60 60 L 60 22 Q 60 14 68 14 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <circle cx="90" cy="90" r="20" fill="none" stroke="#FFFFFF" stroke-width="2.20"/>
+  <polygon points="90.00,26.00 79.00,41.00 101.00,41.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="90.00,154.00 79.00,139.00 101.00,139.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="26.00,90.00 41.00,79.00 41.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="154.00,90.00 139.00,79.00 139.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">dpad up</text></g>
+<g transform="translate(128,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 68 14 L 112 14 Q 120 14 120 22 L 120 60 L 158 60 Q 166 60 166 68 L 166 112 Q 166 120 158 120 L 120 120 L 120 158 Q 120 166 112 166 L 68 166 Q 60 166 60 158 L 60 120 L 22 120 Q 14 120 14 112 L 14 68 Q 14 60 22 60 L 60 60 L 60 22 Q 60 14 68 14 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <circle cx="90" cy="90" r="20" fill="none" stroke="#FFFFFF" stroke-width="2.20"/>
+  <polygon points="90.00,26.00 79.00,41.00 101.00,41.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="90.00,154.00 79.00,139.00 101.00,139.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="26.00,90.00 41.00,79.00 41.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="154.00,90.00 139.00,79.00 139.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">dpad down</text></g>
+<g transform="translate(256,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 68 14 L 112 14 Q 120 14 120 22 L 120 60 L 158 60 Q 166 60 166 68 L 166 112 Q 166 120 158 120 L 120 120 L 120 158 Q 120 166 112 166 L 68 166 Q 60 166 60 158 L 60 120 L 22 120 Q 14 120 14 112 L 14 68 Q 14 60 22 60 L 60 60 L 60 22 Q 60 14 68 14 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <circle cx="90" cy="90" r="20" fill="none" stroke="#FFFFFF" stroke-width="2.20"/>
+  <polygon points="90.00,26.00 79.00,41.00 101.00,41.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="90.00,154.00 79.00,139.00 101.00,139.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="26.00,90.00 41.00,79.00 41.00,101.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="154.00,90.00 139.00,79.00 139.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">dpad left</text></g>
+<g transform="translate(384,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 68 14 L 112 14 Q 120 14 120 22 L 120 60 L 158 60 Q 166 60 166 68 L 166 112 Q 166 120 158 120 L 120 120 L 120 158 Q 120 166 112 166 L 68 166 Q 60 166 60 158 L 60 120 L 22 120 Q 14 120 14 112 L 14 68 Q 14 60 22 60 L 60 60 L 60 22 Q 60 14 68 14 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <circle cx="90" cy="90" r="20" fill="none" stroke="#FFFFFF" stroke-width="2.20"/>
+  <polygon points="90.00,26.00 79.00,41.00 101.00,41.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="90.00,154.00 79.00,139.00 101.00,139.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="26.00,90.00 41.00,79.00 41.00,101.00" fill="none" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+  <polygon points="154.00,90.00 139.00,79.00 139.00,101.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2.20" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">dpad right</text></g>
+<g transform="translate(512,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 266 128" x="28" y="12" width="72" height="72"><path d="M 20 68 C 20 36, 42 22, 82 22 L 224 22 C 238 22, 246 30, 246 44 L 246 96 C 246 102, 241 106, 234 106 L 28 106 C 23 106, 20 102, 20 96 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/><path d="M 113.40 50.00 L 113.40 78.00 L 129.64 78.00 M 136.36 50.00 L 136.36 78.00 M 136.36 50.00 L 145.45 50.00 C 153.57 50.00, 153.57 63.44, 145.45 63.44 L 136.36 63.44 M 145.78 63.44 C 154.55 63.44, 154.55 78.00, 145.78 78.00 L 136.36 78.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">LB</text></g>
+<g transform="translate(640,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 204" x="28" y="12" width="72" height="72"><path d="M 24 22 L 176 22 L 176 146 C 176 168, 152 182, 112 182 C 64 182, 36 160, 29 122 C 24 92, 24 54, 24 22 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/><path d="M 40 30 L 40 114 C 45 146, 70 164, 112 164 C 142 164, 160 152, 162 134" fill="none" stroke="#FFFFFF" stroke-width="2.00" stroke-linecap="round"/><path d="M 80.40 82.00 L 80.40 110.00 L 96.64 110.00 M 103.36 82.00 L 119.60 82.00 M 111.48 82.00 L 111.48 110.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">LT</text></g>
+<g transform="translate(768,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 204" x="28" y="12" width="72" height="72">
+  <path d="M 24 22 L 176 22 L 176 146 C 176 168, 152 182, 112 182 C 64 182, 36 160, 29 122 C 24 92, 24 54, 24 22 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <path d="M 40 30 L 40 114 C 45 146, 70 164, 112 164 C 142 164, 160 152, 162 134" fill="none" stroke="#FFFFFF" stroke-width="2.00" stroke-linecap="round"/>
+  <line x1="60" y1="54" x2="140" y2="54" stroke="#FFFFFF" stroke-width="3.20" stroke-linecap="round" stroke-dasharray="10 8"/>
+  <path d="M 80.40 86.00 L 80.40 114.00 L 96.64 114.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 103.36 86.00 L 119.60 86.00 M 111.48 86.00 L 111.48 114.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">lt soft</text></g>
+<g transform="translate(896,116)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 176" x="28" y="12" width="72" height="72"><path d="M 63 18 L 80 31 L 97 18" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/><circle cx="80.00" cy="102.00" r="58.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80"/><circle cx="80.00" cy="102.00" r="45.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80"/><path d="M 61.80 89.00 L 61.80 115.00 L 76.88 115.00 M 84.33 89.00 L 97.30 89.00 L 89.45 100.96 L 91.26 100.96 C 100.01 100.96, 100.01 115.00, 90.06 115.00 C 86.44 115.00, 84.02 112.92, 83.72 111.36" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">Left stick click</text></g>
+<g transform="translate(0,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="90.00" cy="90.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 81.50 77.00 L 81.50 103.00 L 98.50 103.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">lstick</text></g>
+<g transform="translate(128,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 73 24 L 90 11 L 107 24" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="90.00" cy="82.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 81.50 69.00 L 81.50 95.00 L 98.50 95.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">lstick up</text></g>
+<g transform="translate(256,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 73 156 L 90 169 L 107 156" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="90.00" cy="98.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 81.50 85.00 L 81.50 111.00 L 98.50 111.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">lstick down</text></g>
+<g transform="translate(384,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 24 73 L 11 90 L 24 107" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="82.00" cy="90.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 73.50 77.00 L 73.50 103.00 L 90.50 103.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">lstick left</text></g>
+<g transform="translate(512,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 156 73 L 169 90 L 156 107" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="98.00" cy="90.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 89.50 77.00 L 89.50 103.00 L 106.50 103.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">lstick right</text></g>
+<g transform="translate(640,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 266 128" x="28" y="12" width="72" height="72"><path d="M 246 68 C 246 36, 224 22, 184 22 L 42 22 C 28 22, 20 30, 20 44 L 20 96 C 20 102, 25 106, 32 106 L 238 106 C 243 106, 246 102, 246 96 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/><path d="M 113.40 78.00 L 113.40 50.00 L 122.82 50.00 C 131.26 50.00, 131.26 64.00, 122.82 64.00 L 113.40 64.00 M 122.82 64.00 L 129.64 78.00 M 136.36 50.00 L 136.36 78.00 M 136.36 50.00 L 145.45 50.00 C 153.57 50.00, 153.57 63.44, 145.45 63.44 L 136.36 63.44 M 145.78 63.44 C 154.55 63.44, 154.55 78.00, 145.78 78.00 L 136.36 78.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">RB</text></g>
+<g transform="translate(768,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 204" x="28" y="12" width="72" height="72"><path d="M 176 22 L 24 22 L 24 146 C 24 168, 48 182, 88 182 C 136 182, 164 160, 171 122 C 176 92, 176 54, 176 22 Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/><path d="M 160 30 L 160 114 C 155 146, 130 164, 88 164 C 58 164, 40 152, 38 134" fill="none" stroke="#FFFFFF" stroke-width="2.00" stroke-linecap="round"/><path d="M 80.40 110.00 L 80.40 82.00 L 89.82 82.00 C 98.26 82.00, 98.26 96.00, 89.82 96.00 L 80.40 96.00 M 89.82 96.00 L 96.64 110.00 M 103.36 82.00 L 119.60 82.00 M 111.48 82.00 L 111.48 110.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">RT</text></g>
+<g transform="translate(896,232)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 204" x="28" y="12" width="72" height="72">
+  <path d="M 176 22 L 24 22 L 24 146 C 24 168, 48 182, 88 182 C 136 182, 164 160, 171 122 C 176 92, 176 54, 176 22 Z" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linejoin="round"/>
+  <path d="M 160 30 L 160 114 C 155 146, 130 164, 88 164 C 58 164, 40 152, 38 134" fill="none" stroke="#FFFFFF" stroke-width="2.00" stroke-linecap="round"/>
+  <line x1="60" y1="54" x2="140" y2="54" stroke="#FFFFFF" stroke-width="3.20" stroke-linecap="round" stroke-dasharray="10 8"/>
+  <path d="M 80.40 114.00 L 80.40 86.00 L 89.82 86.00 C 98.26 86.00, 98.26 100.00, 89.82 100.00 L 80.40 100.00 M 89.82 100.00 L 96.64 114.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 103.36 86.00 L 119.60 86.00 M 111.48 86.00 L 111.48 114.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">rt soft</text></g>
+<g transform="translate(0,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 176" x="28" y="12" width="72" height="72"><path d="M 63 18 L 80 31 L 97 18" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/><circle cx="80.00" cy="102.00" r="58.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80"/><circle cx="80.00" cy="102.00" r="45.00" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80"/><path d="M 61.80 115.00 L 61.80 89.00 L 70.55 89.00 C 78.39 89.00, 78.39 102.00, 70.55 102.00 L 61.80 102.00 M 70.55 102.00 L 76.88 115.00 M 84.33 89.00 L 97.30 89.00 L 89.45 100.96 L 91.26 100.96 C 100.01 100.96, 100.01 115.00, 90.06 115.00 C 86.44 115.00, 84.02 112.92, 83.72 111.36" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">Right stick click</text></g>
+<g transform="translate(128,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="90.00" cy="90.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 81.00 103.00 L 81.00 77.00 L 91.00 77.00 C 100.50 77.00, 100.50 90.00, 91.00 90.00 L 81.00 90.00 M 91.00 90.00 L 99.00 103.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">rstick</text></g>
+<g transform="translate(256,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 73 24 L 90 11 L 107 24" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="90.00" cy="82.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 81.00 95.00 L 81.00 69.00 L 91.00 69.00 C 100.50 69.00, 100.50 82.00, 91.00 82.00 L 81.00 82.00 M 91.00 82.00 L 99.00 95.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">rstick up</text></g>
+<g transform="translate(384,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 73 156 L 90 169 L 107 156" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="90.00" cy="98.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 81.00 111.00 L 81.00 85.00 L 91.00 85.00 C 100.50 85.00, 100.50 98.00, 91.00 98.00 L 81.00 98.00 M 91.00 98.00 L 99.00 111.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">rstick down</text></g>
+<g transform="translate(512,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 24 73 L 11 90 L 24 107" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="82.00" cy="90.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 73.00 103.00 L 73.00 77.00 L 83.00 77.00 C 92.50 77.00, 92.50 90.00, 83.00 90.00 L 73.00 90.00 M 83.00 90.00 L 91.00 103.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">rstick left</text></g>
+<g transform="translate(640,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" x="28" y="12" width="72" height="72">
+  <path d="M 156 73 L 169 90 L 156 107" fill="none" stroke="#FFFFFF" stroke-width="3.80" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="90.00" cy="90.00" r="58.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <circle cx="98.00" cy="90.00" r="43.00" fill="none" stroke="#FFFFFF" stroke-width="3.80"/>
+  <path d="M 89.00 103.00 L 89.00 77.00 L 99.00 77.00 C 108.50 77.00, 108.50 90.00, 99.00 90.00 L 89.00 90.00 M 99.00 90.00 L 107.00 103.00" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">rstick right</text></g>
+<g transform="translate(768,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 110" x="28" y="12" width="72" height="72"><rect x="20" y="20" width="120" height="70" rx="14" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80"/><path d="M 61.80 42.00 L 61.80 68.00 L 76.88 68.00 M 93.98 68.00 L 93.98 42.00 L 83.12 59.16 L 98.20 59.16" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">L4</text></g>
+<g transform="translate(896,348)">
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 110" x="28" y="12" width="72" height="72"><rect x="20" y="20" width="120" height="70" rx="14" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.80"/><path d="M 61.80 68.00 L 61.80 42.00 L 70.55 42.00 C 78.39 42.00, 78.39 55.00, 70.55 55.00 L 61.80 55.00 M 70.55 55.00 L 76.88 68.00 M 93.98 68.00 L 93.98 42.00 L 83.12 59.16 L 98.20 59.16" fill="none" stroke="#FFFFFF" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<text x="64" y="102" text-anchor="middle" fill="#e4e4e7" font-family="sans-serif" font-size="11">R4</text></g></svg>

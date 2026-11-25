@@ -1,0 +1,296 @@
+/* White Ultimate 2C glyphs only. Steam retains its native controller diagrams. */
+:root {
+    --button-a-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/a.svg");
+    --button-b-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/b.svg");
+    --button-x-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/x.svg");
+    --button-y-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/y.svg");
+    --button-guide-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/guide.svg");
+    --button-view-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/view.svg");
+    --button-menu-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/menu.svg");
+    --button-l4-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-l4.svg");
+    --button-r4-image: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-r4.svg");
+}
+
+img[src$="/steaminputglyphs/shared_button_a.svg"],
+img[src*="/steaminputglyphs/shared_button_a.svg?"],
+img[src$="/steaminputglyphs/shared_color_button_a.svg"],
+img[src*="/steaminputglyphs/shared_color_button_a.svg?"],
+img[src$="/steaminputglyphs/ps_button_x.svg"],
+img[src*="/steaminputglyphs/ps_button_x.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_a.svg"],
+img[src*="/steaminputglyphs/switchpro_button_a.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/a.svg");
+}
+
+img[src$="/steaminputglyphs/shared_button_b.svg"],
+img[src*="/steaminputglyphs/shared_button_b.svg?"],
+img[src$="/steaminputglyphs/shared_color_button_b.svg"],
+img[src*="/steaminputglyphs/shared_color_button_b.svg?"],
+img[src$="/steaminputglyphs/ps_button_circle.svg"],
+img[src*="/steaminputglyphs/ps_button_circle.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_b.svg"],
+img[src*="/steaminputglyphs/switchpro_button_b.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/b.svg");
+}
+
+img[src$="/steaminputglyphs/shared_button_x.svg"],
+img[src*="/steaminputglyphs/shared_button_x.svg?"],
+img[src$="/steaminputglyphs/shared_color_button_x.svg"],
+img[src*="/steaminputglyphs/shared_color_button_x.svg?"],
+img[src$="/steaminputglyphs/ps_button_square.svg"],
+img[src*="/steaminputglyphs/ps_button_square.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_x.svg"],
+img[src*="/steaminputglyphs/switchpro_button_x.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/x.svg");
+}
+
+img[src$="/steaminputglyphs/shared_button_y.svg"],
+img[src*="/steaminputglyphs/shared_button_y.svg?"],
+img[src$="/steaminputglyphs/shared_color_button_y.svg"],
+img[src*="/steaminputglyphs/shared_color_button_y.svg?"],
+img[src$="/steaminputglyphs/ps_button_triangle.svg"],
+img[src*="/steaminputglyphs/ps_button_triangle.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_y.svg"],
+img[src*="/steaminputglyphs/switchpro_button_y.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/y.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_button_logo.svg"],
+img[src*="/steaminputglyphs/xbox_button_logo.svg?"],
+img[src$="/steaminputglyphs/ps4_button_logo.svg"],
+img[src*="/steaminputglyphs/ps4_button_logo.svg?"],
+img[src$="/steaminputglyphs/sc_button_steam.svg"],
+img[src*="/steaminputglyphs/sc_button_steam.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_home.svg"],
+img[src*="/steaminputglyphs/switchpro_button_home.svg?"],
+img[src$="/steaminputglyphs/8bitdo_button_home.svg"],
+img[src*="/steaminputglyphs/8bitdo_button_home.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/guide.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_button_select.svg"],
+img[src*="/steaminputglyphs/xbox_button_select.svg?"],
+img[src$="/steaminputglyphs/xbox360_button_select.svg"],
+img[src*="/steaminputglyphs/xbox360_button_select.svg?"],
+img[src$="/steaminputglyphs/ps5_button_create.svg"],
+img[src*="/steaminputglyphs/ps5_button_create.svg?"],
+img[src$="/steaminputglyphs/sd_button_view.svg"],
+img[src*="/steaminputglyphs/sd_button_view.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_minus.svg"],
+img[src*="/steaminputglyphs/switchpro_button_minus.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/view.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_button_start.svg"],
+img[src*="/steaminputglyphs/xbox_button_start.svg?"],
+img[src$="/steaminputglyphs/xbox360_button_start.svg"],
+img[src*="/steaminputglyphs/xbox360_button_start.svg?"],
+img[src$="/steaminputglyphs/ps5_button_options.svg"],
+img[src*="/steaminputglyphs/ps5_button_options.svg?"],
+img[src$="/steaminputglyphs/sd_button_menu.svg"],
+img[src*="/steaminputglyphs/sd_button_menu.svg?"],
+img[src$="/steaminputglyphs/switchpro_button_plus.svg"],
+img[src*="/steaminputglyphs/switchpro_button_plus.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/menu.svg");
+}
+
+img[src$="/steaminputglyphs/shared_dpad.svg"],
+img[src*="/steaminputglyphs/shared_dpad.svg?"],
+img[src$="/steaminputglyphs/ps_dpad.svg"],
+img[src*="/steaminputglyphs/ps_dpad.svg?"],
+img[src$="/steaminputglyphs/switchpro_dpad.svg"],
+img[src*="/steaminputglyphs/switchpro_dpad.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/dpad.svg");
+}
+
+img[src$="/steaminputglyphs/shared_dpad_up.svg"],
+img[src*="/steaminputglyphs/shared_dpad_up.svg?"],
+img[src$="/steaminputglyphs/ps_dpad_up.svg"],
+img[src*="/steaminputglyphs/ps_dpad_up.svg?"],
+img[src$="/steaminputglyphs/switchpro_dpad_up.svg"],
+img[src*="/steaminputglyphs/switchpro_dpad_up.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/dpad-up.svg");
+}
+
+img[src$="/steaminputglyphs/shared_dpad_down.svg"],
+img[src*="/steaminputglyphs/shared_dpad_down.svg?"],
+img[src$="/steaminputglyphs/ps_dpad_down.svg"],
+img[src*="/steaminputglyphs/ps_dpad_down.svg?"],
+img[src$="/steaminputglyphs/switchpro_dpad_down.svg"],
+img[src*="/steaminputglyphs/switchpro_dpad_down.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/dpad-down.svg");
+}
+
+img[src$="/steaminputglyphs/shared_dpad_left.svg"],
+img[src*="/steaminputglyphs/shared_dpad_left.svg?"],
+img[src$="/steaminputglyphs/ps_dpad_left.svg"],
+img[src*="/steaminputglyphs/ps_dpad_left.svg?"],
+img[src$="/steaminputglyphs/switchpro_dpad_left.svg"],
+img[src*="/steaminputglyphs/switchpro_dpad_left.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/dpad-left.svg");
+}
+
+img[src$="/steaminputglyphs/shared_dpad_right.svg"],
+img[src*="/steaminputglyphs/shared_dpad_right.svg?"],
+img[src$="/steaminputglyphs/ps_dpad_right.svg"],
+img[src*="/steaminputglyphs/ps_dpad_right.svg?"],
+img[src$="/steaminputglyphs/switchpro_dpad_right.svg"],
+img[src*="/steaminputglyphs/switchpro_dpad_right.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/dpad-right.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_lb.svg"],
+img[src*="/steaminputglyphs/xbox_lb.svg?"],
+img[src$="/steaminputglyphs/ps5_l1.svg"],
+img[src*="/steaminputglyphs/ps5_l1.svg?"],
+img[src$="/steaminputglyphs/sd_l1.svg"],
+img[src*="/steaminputglyphs/sd_l1.svg?"],
+img[src$="/steaminputglyphs/switchpro_l1.svg"],
+img[src*="/steaminputglyphs/switchpro_l1.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-lb.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_lt.svg"],
+img[src*="/steaminputglyphs/xbox_lt.svg?"],
+img[src$="/steaminputglyphs/ps5_l2.svg"],
+img[src*="/steaminputglyphs/ps5_l2.svg?"],
+img[src$="/steaminputglyphs/sd_l2.svg"],
+img[src*="/steaminputglyphs/sd_l2.svg?"],
+img[src$="/steaminputglyphs/switchpro_l2.svg"],
+img[src*="/steaminputglyphs/switchpro_l2.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-lt.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_lt_soft.svg"],
+img[src*="/steaminputglyphs/xbox_lt_soft.svg?"],
+img[src$="/steaminputglyphs/ps5_l2_soft.svg"],
+img[src*="/steaminputglyphs/ps5_l2_soft.svg?"],
+img[src$="/steaminputglyphs/sd_l2_half.svg"],
+img[src*="/steaminputglyphs/sd_l2_half.svg?"],
+img[src$="/steaminputglyphs/switchpro_l2_soft.svg"],
+img[src*="/steaminputglyphs/switchpro_l2_soft.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/lt-soft.svg");
+}
+
+img[src$="/steaminputglyphs/shared_l3.svg"],
+img[src*="/steaminputglyphs/shared_l3.svg?"],
+img[src$="/steaminputglyphs/shared_lstick_click.svg"],
+img[src*="/steaminputglyphs/shared_lstick_click.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-l3.svg");
+}
+
+img[src$="/steaminputglyphs/shared_lstick.svg"],
+img[src*="/steaminputglyphs/shared_lstick.svg?"],
+img[src$="/steaminputglyphs/shared_lstick_touch.svg"],
+img[src*="/steaminputglyphs/shared_lstick_touch.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/lstick.svg");
+}
+
+img[src$="/steaminputglyphs/shared_lstick_up.svg"],
+img[src*="/steaminputglyphs/shared_lstick_up.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/lstick-up.svg");
+}
+
+img[src$="/steaminputglyphs/shared_lstick_down.svg"],
+img[src*="/steaminputglyphs/shared_lstick_down.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/lstick-down.svg");
+}
+
+img[src$="/steaminputglyphs/shared_lstick_left.svg"],
+img[src*="/steaminputglyphs/shared_lstick_left.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/lstick-left.svg");
+}
+
+img[src$="/steaminputglyphs/shared_lstick_right.svg"],
+img[src*="/steaminputglyphs/shared_lstick_right.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/lstick-right.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_rb.svg"],
+img[src*="/steaminputglyphs/xbox_rb.svg?"],
+img[src$="/steaminputglyphs/ps5_r1.svg"],
+img[src*="/steaminputglyphs/ps5_r1.svg?"],
+img[src$="/steaminputglyphs/sd_r1.svg"],
+img[src*="/steaminputglyphs/sd_r1.svg?"],
+img[src$="/steaminputglyphs/switchpro_r1.svg"],
+img[src*="/steaminputglyphs/switchpro_r1.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-rb.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_rt.svg"],
+img[src*="/steaminputglyphs/xbox_rt.svg?"],
+img[src$="/steaminputglyphs/ps5_r2.svg"],
+img[src*="/steaminputglyphs/ps5_r2.svg?"],
+img[src$="/steaminputglyphs/sd_r2.svg"],
+img[src*="/steaminputglyphs/sd_r2.svg?"],
+img[src$="/steaminputglyphs/switchpro_r2.svg"],
+img[src*="/steaminputglyphs/switchpro_r2.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-rt.svg");
+}
+
+img[src$="/steaminputglyphs/xbox_rt_soft.svg"],
+img[src*="/steaminputglyphs/xbox_rt_soft.svg?"],
+img[src$="/steaminputglyphs/ps5_r2_soft.svg"],
+img[src*="/steaminputglyphs/ps5_r2_soft.svg?"],
+img[src$="/steaminputglyphs/sd_r2_half.svg"],
+img[src*="/steaminputglyphs/sd_r2_half.svg?"],
+img[src$="/steaminputglyphs/switchpro_r2_soft.svg"],
+img[src*="/steaminputglyphs/switchpro_r2_soft.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/rt-soft.svg");
+}
+
+img[src$="/steaminputglyphs/shared_r3.svg"],
+img[src*="/steaminputglyphs/shared_r3.svg?"],
+img[src$="/steaminputglyphs/shared_rstick_click.svg"],
+img[src*="/steaminputglyphs/shared_rstick_click.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-r3.svg");
+}
+
+img[src$="/steaminputglyphs/shared_rstick.svg"],
+img[src*="/steaminputglyphs/shared_rstick.svg?"],
+img[src$="/steaminputglyphs/shared_rstick_touch.svg"],
+img[src*="/steaminputglyphs/shared_rstick_touch.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/rstick.svg");
+}
+
+img[src$="/steaminputglyphs/shared_rstick_up.svg"],
+img[src*="/steaminputglyphs/shared_rstick_up.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/rstick-up.svg");
+}
+
+img[src$="/steaminputglyphs/shared_rstick_down.svg"],
+img[src*="/steaminputglyphs/shared_rstick_down.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/rstick-down.svg");
+}
+
+img[src$="/steaminputglyphs/shared_rstick_left.svg"],
+img[src*="/steaminputglyphs/shared_rstick_left.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/rstick-left.svg");
+}
+
+img[src$="/steaminputglyphs/shared_rstick_right.svg"],
+img[src*="/steaminputglyphs/shared_rstick_right.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/rstick-right.svg");
+}
+
+img[src$="/steaminputglyphs/sd_l4.svg"],
+img[src*="/steaminputglyphs/sd_l4.svg?"],
+img[src$="/steaminputglyphs/xbox_p3.svg"],
+img[src*="/steaminputglyphs/xbox_p3.svg?"],
+img[src$="/steaminputglyphs/ps_lfn.svg"],
+img[src*="/steaminputglyphs/ps_lfn.svg?"],
+img[src$="/steaminputglyphs/hp_l4.svg"],
+img[src*="/steaminputglyphs/hp_l4.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-l4.svg");
+}
+
+img[src$="/steaminputglyphs/sd_r4.svg"],
+img[src*="/steaminputglyphs/sd_r4.svg?"],
+img[src$="/steaminputglyphs/xbox_p1.svg"],
+img[src*="/steaminputglyphs/xbox_p1.svg?"],
+img[src$="/steaminputglyphs/ps_rfn.svg"],
+img[src*="/steaminputglyphs/ps_rfn.svg?"],
+img[src$="/steaminputglyphs/hp_r4.svg"],
+img[src*="/steaminputglyphs/hp_r4.svg?"] {
+    content: url("/themes_custom/handheld-controller-glyphs/assets/8bitdo/ultimate-2c/8bitdo-r4.svg");
+}
